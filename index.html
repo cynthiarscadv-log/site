@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="CRSC Logística Penal: diligências em unidades prisionais de todo o Estado de São Paulo para advogados criminalistas e escritórios de outros estados.">
+<title>CRSC Logística Penal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: navy institutional bands alternating with a cool paper ground; brass hairlines mark structure, one column of content at 1080px. */
+:root {
+  --ground: #F3F5F8;
+  --surface: #FFFFFF;
+  --ink: #0E1A2F;
+  --ink-soft: #2A3448;
+  --muted: #566176;
+  --line: #D3D9E2;
+  --brass: #7A5C22;        /* brass for text on light ground (AA) */
+  --band: #0E1A2F;         /* navy band, both themes */
+  --band-ink: #FFFFFF;
+  --band-soft: #C6CEDA;
+  --band-brass: #C9A45C;   /* brass on navy */
+  --band-line: rgba(201,164,92,.42);
+  --cta: #C9A45C;
+  --cta-ink: #0E1A2F;
+  --display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --wrap: 1080px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #0A1322; --surface: #111D33; --ink: #EEF1F6; --ink-soft: #C9D0DC; --muted: #9AA5B8;
+    --line: #233251; --brass: #D8B46A; --band: #060D19; --band-ink: #FFFFFF; --band-soft: #C6CEDA;
+    --band-brass: #D8B46A; --band-line: rgba(216,180,106,.38); --cta: #D8B46A; --cta-ink: #0E1A2F; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --ground: #0A1322; --surface: #111D33; --ink: #EEF1F6; --ink-soft: #C9D0DC; --muted: #9AA5B8;
+  --line: #233251; --brass: #D8B46A; --band: #060D19; --band-ink: #FFFFFF; --band-soft: #C6CEDA;
+  --band-brass: #D8B46A; --band-line: rgba(216,180,106,.38); --cta: #D8B46A; --cta-ink: #0E1A2F; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+img { max-width: 100%; }
+html { scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body { background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.6; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--band); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--band-brass); outline-offset: 3px; border-radius: 2px; }
+.wrap { max-width: var(--wrap); margin: 0 auto; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); }
+h1, h2, h3 { text-wrap: balance; margin: 0; }
+p { margin: 0; }
+.eyebrow { font-size: 12px; font-weight: 700; letter-spacing: .2em; text-transform: uppercase; color: var(--brass); }
+.band .eyebrow { color: var(--band-brass); }
+.rule { width: 56px; height: 2px; background: var(--band-brass); }
+
+/* header */
+.top { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 9; background: var(--band); color: var(--band-ink); border-bottom: 1px solid var(--band-line); }
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-block: 12px; }
+.logo { display: flex; flex-direction: column; text-decoration: none; line-height: 1; }
+.logo b { font-family: var(--display); font-size: 28px; letter-spacing: .06em; }
+.logo span { font-size: 9.5px; font-weight: 600; letter-spacing: .32em; color: var(--band-brass); margin-top: 4px; }
+.nav { display: flex; gap: 22px; font-size: 14px; }
+.nav a { text-decoration: none; color: var(--band-soft); }
+.nav a:hover { color: var(--band-ink); }
+@media (max-width: 880px) { .nav { display: none; } }
+.btn { display: inline-flex; align-items: center; justify-content: center; gap: 10px; min-height: 46px; padding: 0 22px; border-radius: 4px; font-weight: 700; font-size: 15px; text-decoration: none; border: 1px solid transparent; cursor: pointer; font-family: var(--body); }
+.btn-cta { background: var(--cta); color: var(--cta-ink); }
+.btn-cta:hover { filter: brightness(1.06); }
+.btn-ghost { border-color: var(--band-line); color: var(--band-ink); background: transparent; }
+.btn-ghost:hover { border-color: var(--band-brass); }
+.btn-line { border-color: var(--line); color: var(--ink); background: var(--surface); }
+.btn-line:hover { border-color: var(--brass); }
+.top .btn { min-height: 40px; padding: 0 16px; font-size: 14px; }
+.wa { width: 18px; height: 18px; flex: none; }
+
+/* hero */
+.band { background: var(--band); color: var(--band-ink); }
+.hero { position: relative; overflow: hidden; }
+.hero svg.rings { position: absolute; right: -180px; top: -160px; width: 680px; height: 680px; pointer-events: none; }
+.hero .wrap { position: relative; padding-block: 72px 64px; display: flex; flex-direction: column; gap: 26px; }
+.hero h1 { font-family: var(--display); font-weight: 600; font-size: clamp(44px, 7vw, 82px); line-height: 1.02; max-width: 15ch; }
+.hero p.lead { font-size: 18px; color: var(--band-soft); max-width: 58ch; }
+.ctas { display: flex; flex-wrap: wrap; gap: 12px; }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; margin-top: 18px; max-width: 760px; }
+.stat { border: 1px solid var(--band-line); border-radius: 4px; padding: 18px 20px; display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.stat b { font-family: var(--display); font-size: 38px; line-height: 1; color: var(--band-brass); }
+.stat span { font-size: 13.5px; color: var(--band-soft); line-height: 1.45; }
+@media (max-width: 600px) { .stats { grid-template-columns: 1fr; } .stat { flex-direction: row; align-items: baseline; gap: 14px; } .stat b { min-width: 92px; font-size: 32px; } }
+
+/* sections */
+section.block .wrap { padding-block: 72px; display: flex; flex-direction: column; gap: 32px; }
+.head { display: flex; flex-direction: column; gap: 12px; max-width: 680px; }
+.head h2 { font-family: var(--display); font-weight: 600; font-size: clamp(34px, 4.6vw, 48px); line-height: 1.05; }
+.head p { color: var(--ink-soft); }
+.band .head p { color: var(--band-soft); }
+
+.services { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+@media (max-width: 860px) { .services { grid-template-columns: 1fr; } }
+.service { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 26px; display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.service h3 { font-size: 18px; }
+.service ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 10px; color: var(--ink-soft); font-size: 15px; }
+.service li { display: flex; gap: 10px; }
+.service li::before { content: "—"; color: var(--brass); font-weight: 700; flex: none; }
+.service .tag { font-size: 11px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--brass); }
+
+.steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; counter-reset: s; list-style: none; padding: 0; margin: 0; }
+@media (max-width: 860px) { .steps { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 480px) { .steps { grid-template-columns: 1fr; } }
+.steps li { border-top: 2px solid var(--band-brass); padding-top: 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.steps li::before { counter-increment: s; content: counter(s); font-family: var(--display); font-size: 34px; font-weight: 700; color: var(--band-brass); line-height: 1; }
+.steps b { font-size: 16px; }
+.steps span { font-size: 14.5px; color: var(--band-soft); }
+
+.coverage { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 28px; align-items: start; }
+@media (max-width: 860px) { .coverage { grid-template-columns: 1fr; } }
+.regions { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.regions li { display: flex; justify-content: space-between; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+.regions li span:first-child { font-weight: 600; }
+.regions li span:last-child { color: var(--muted); font-size: 14px; white-space: nowrap; }
+.callout { background: var(--surface); border: 1px solid var(--line); border-radius: 6px; padding: 28px; display: flex; flex-direction: column; gap: 14px; }
+.callout h3 { font-family: var(--display); font-size: 30px; font-weight: 600; line-height: 1.1; }
+.callout p { color: var(--ink-soft); font-size: 15px; }
+
+.gift { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 32px; align-items: center; border: 1px solid var(--band-line); border-radius: 6px; padding: 36px; }
+@media (max-width: 760px) { .gift { grid-template-columns: 1fr; padding: 26px; } }
+.gift h2 { font-family: var(--display); font-size: clamp(30px, 4vw, 42px); font-weight: 600; line-height: 1.08; }
+.gift p { color: var(--band-soft); max-width: 60ch; }
+.gift .list { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+.gift .list span { font-size: 12.5px; border: 1px solid var(--band-line); border-radius: 99px; padding: 4px 12px; color: var(--band-soft); }
+.gift .inner { display: flex; flex-direction: column; gap: 14px; }
+
+.news { display: flex; flex-direction: column; border-top: 1px solid var(--line); }
+.item { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 24px; padding: 22px 0; border-bottom: 1px solid var(--line); }
+@media (max-width: 600px) { .item { grid-template-columns: 1fr; gap: 8px; } }
+.item time { font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; padding-top: 3px; }
+.item .body { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.item .unit { font-size: 11px; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--brass); }
+.item h3 { font-size: 18px; line-height: 1.35; }
+.item p { color: var(--ink-soft); font-size: 15px; max-width: 70ch; }
+.item a.src { font-size: 13.5px; color: var(--brass); font-weight: 600; text-decoration: none; }
+.item a.src:hover { text-decoration: underline; }
+.empty { padding: 28px 0; color: var(--muted); border-bottom: 1px solid var(--line); }
+.news-meta { font-size: 13px; color: var(--muted); }
+
+footer.band .wrap { padding-block: 56px; display: flex; flex-wrap: wrap; justify-content: space-between; gap: 28px; align-items: flex-end; }
+footer h2 { font-family: var(--display); font-size: clamp(32px, 4.4vw, 46px); font-weight: 600; line-height: 1.05; max-width: 16ch; }
+.contact { display: flex; flex-direction: column; gap: 10px; }
+.phone { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.phone strong { font-size: 24px; letter-spacing: .01em; user-select: all; font-variant-numeric: tabular-nums; }
+.copy { background: transparent; color: var(--band-soft); border: 1px solid var(--band-line); border-radius: 4px; min-height: 36px; padding: 0 12px; font: 600 13px var(--body); cursor: pointer; }
+.copy:hover { color: var(--band-ink); }
+.fine { font-size: 12.5px; color: var(--band-soft); }
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#inicio" aria-label="CRSC Logística Penal, início"><b>CRSC</b><span>LOGÍSTICA PENAL</span></a>
+    <nav class="nav" aria-label="Seções">
+      <a href="#servicos">Serviços</a>
+      <a href="#como-funciona">Como funciona</a>
+      <a href="#cobertura">Cobertura</a>
+      <a href="#material">Material gratuito</a>
+      <a href="#noticias">Notícias</a>
+    </nav>
+    <a class="btn btn-cta" data-wa="diligencia" href="https://wa.me/5515996296797" target="_blank" rel="noopener">
+      <svg class="wa" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-12.6 7.4L3 20.5l1.6-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+      WhatsApp
+    </a>
+  </div>
+</header>
+
+<main>
+  <section class="band hero" id="inicio">
+    <svg class="rings" viewBox="0 0 680 680" aria-hidden="true">
+      <circle cx="340" cy="340" r="200" fill="none" stroke="var(--band-brass)" stroke-opacity=".2"/>
+      <circle cx="340" cy="340" r="270" fill="none" stroke="var(--band-brass)" stroke-opacity=".11"/>
+      <circle cx="340" cy="340" r="335" fill="none" stroke="var(--band-brass)" stroke-opacity=".06"/>
+    </svg>
+    <div class="wrap">
+      <span class="eyebrow">Diligências em unidades prisionais · Estado de São Paulo</span>
+      <h1>Seu braço operacional no sistema prisional.</h1>
+      <p class="lead">Coletamos assinaturas, entregamos documentos e despachamos com a direção das unidades para advogados criminalistas e escritórios de outros estados, sem que você precise se deslocar.</p>
+      <div class="ctas">
+        <a class="btn btn-cta" data-wa="diligencia" href="https://wa.me/5515996296797" target="_blank" rel="noopener">
+          <svg class="wa" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-12.6 7.4L3 20.5l1.6-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+          Solicitar diligência
+        </a>
+        <a class="btn btn-ghost" data-wa="tabela" href="https://wa.me/5515996296797" target="_blank" rel="noopener">Solicite a tabela de valores</a>
+      </div>
+      <div class="stats">
+        <div class="stat"><b>48h</b><span>prazo para coleta de assinatura em procuração</span></div>
+        <div class="stat"><b>180</b><span>unidades atendidas na capital e no interior</span></div>
+        <div class="stat"><b>Ao vivo</b><span>relatório em tempo real de cada diligência</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="servicos">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Serviços</span>
+        <h2>Mais que logística: parceria para o seu escritório.</h2>
+        <p>Atuamos onde a logística é complexa, para que o direito do seu cliente não pare por falta de presença física nas unidades.</p>
+      </div>
+      <div class="services">
+        <article class="service">
+          <span class="tag">Formalização jurídica</span>
+          <h3>Assinaturas colhidas na unidade</h3>
+          <ul>
+            <li>Procurações e contratos de honorários</li>
+            <li>Declarações de hipossuficiência e de vínculo</li>
+          </ul>
+        </article>
+        <article class="service">
+          <span class="tag">Gestão de documentos</span>
+          <h3>Documentos que chegam e saem</h3>
+          <ul>
+            <li>Entrega de cópias de processos e acórdãos ao sentenciado</li>
+            <li>Retirada de documentos pessoais junto à administração</li>
+          </ul>
+        </article>
+        <article class="service">
+          <span class="tag">Apoio institucional</span>
+          <h3>Presença junto à direção</h3>
+          <ul>
+            <li>Despacho presencial com diretores de segurança, disciplina e saúde</li>
+            <li>Verificação de prontuário e situação disciplinar in loco</li>
+          </ul>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="band block" id="como-funciona">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Como funciona</span>
+        <h2>Da sua mensagem ao documento assinado.</h2>
+      </div>
+      <ol class="steps">
+        <li><b>Você solicita</b><span>Envie a demanda e os documentos pelo WhatsApp.</span></li>
+        <li><b>Nós agendamos</b><span>Organizamos a visita conforme as regras da unidade.</span></li>
+        <li><b>Diligência</b><span>Atendimento presencial com o cliente na unidade.</span></li>
+        <li><b>Relatório</b><span>Você acompanha em tempo real e recebe o documento.</span></li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="block" id="cobertura">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Cobertura</span>
+        <h2>Todas as unidades prisionais do Estado de São Paulo.</h2>
+        <p>Atendemos penitenciárias, CDPs, centros de progressão, centros de ressocialização e hospitais de custódia, da capital ao extremo oeste.</p>
+      </div>
+      <div class="coverage">
+        <ul class="regions">
+          <li><span>Capital e Grande São Paulo</span><span>29 unidades</span></li>
+          <li><span>Vale do Paraíba e Litoral</span><span>20 unidades</span></li>
+          <li><span>Região Central</span><span>34 unidades</span></li>
+          <li><span>Região Noroeste</span><span>30 unidades</span></li>
+          <li><span>Região Norte</span><span>28 unidades</span></li>
+          <li><span>Região Oeste e Saúde</span><span>39 unidades</span></li>
+        </ul>
+        <div class="callout">
+          <span class="eyebrow">Tabela de valores</span>
+          <h3>Receba a tabela completa por unidade.</h3>
+          <p>Os valores variam conforme a unidade e são por atendimento para coleta de assinatura. Peça pelo WhatsApp e enviamos a tabela atualizada.</p>
+          <a class="btn btn-cta" data-wa="tabela" href="https://wa.me/5515996296797" target="_blank" rel="noopener">Solicitar a tabela</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="band block" id="material">
+    <div class="wrap">
+      <div class="gift">
+        <div class="inner">
+          <span class="eyebrow">Material gratuito</span>
+          <h2>Guia de e-mails de agendamento e salas de teleaudiência.</h2>
+          <p>Uma relação das unidades da SAP com o e-mail de agendamento de cada uma e as salas de teleaudiência vinculadas, organizada por RAJ. Gratuito para advogados.</p>
+          <div class="list"><span>E-mails de agendamento</span><span>Salas de teleaudiência</span><span>Organizado por RAJ</span></div>
+        </div>
+        <a class="btn btn-cta" data-wa="guia" href="https://wa.me/5515996296797" target="_blank" rel="noopener">
+          <svg class="wa" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.5 8.5 0 0 1-12.6 7.4L3 20.5l1.6-5.2A8.5 8.5 0 1 1 21 11.5z"/></svg>
+          Receber o guia grátis
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" id="noticias">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Notícias das unidades</span>
+        <h2>O que muda no sistema prisional paulista.</h2>
+        <p class="news-meta" id="news-meta">Atualizado diariamente com notícias de fontes públicas, sempre com link para a reportagem original.</p>
+      </div>
+      <div class="news" id="news" aria-live="polite">
+        <p class="empty">Carregando as notícias mais recentes…</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="band">
+  <div class="wrap">
+    <h2>Pare de perder tempo com deslocamento.</h2>
+    <div class="contact">
+      <span class="eyebrow">WhatsApp</span>
+      <div class="phone">
+        <strong id="phone">(15) 99629-6797</strong>
+        <button class="copy" id="copy" type="button">Copiar número</button>
+      </div>
+      <a class="btn btn-cta" data-wa="diligencia" href="https://wa.me/5515996296797" target="_blank" rel="noopener">Conversar pelo WhatsApp</a>
+      <span class="fine">CRSC Logística Penal · Logística jurídica que impulsiona escritórios</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var base = "https://wa.me/5515996296797?text=";
+  var msgs = {
+    diligencia: "Olá! Vim pelo site da CRSC Logística Penal e gostaria de solicitar uma diligência.",
+    tabela: "Olá! Vim pelo site da CRSC Logística Penal e gostaria de receber a tabela de valores.",
+    guia: "Olá! Vim pelo site da CRSC Logística Penal e gostaria de receber o guia gratuito de e-mails de agendamento e salas de teleaudiência."
+  };
+  document.querySelectorAll("[data-wa]").forEach(function (a) {
+    var m = msgs[a.getAttribute("data-wa")];
+    if (m) a.href = base + encodeURIComponent(m);
+  });
+
+  var copy = document.getElementById("copy");
+  copy.addEventListener("click", function () {
+    var txt = "+55 15 99629-6797";
+    var done = function () { copy.textContent = "Número copiado"; setTimeout(function () { copy.textContent = "Copiar número"; }, 2200); };
+    try {
+      navigator.clipboard.writeText(txt).then(done, function () { selectPhone(); });
+    } catch (e) { selectPhone(); }
+  });
+  function selectPhone() {
+    var r = document.createRange(); r.selectNodeContents(document.getElementById("phone"));
+    var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    copy.textContent = "Selecionado: copie com Ctrl+C";
+  }
+
+  function fmt(d) {
+    try { return new Date(d + "T12:00:00").toLocaleDateString("pt-BR", { day: "2-digit", month: "short", year: "numeric" }); }
+    catch (e) { return d; }
+  }
+  function el(tag, cls, text) { var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
+
+  var box = document.getElementById("news");
+  var meta = document.getElementById("news-meta");
+  fetch("noticias.json", { cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (data) {
+      var items = (data && Array.isArray(data.itens) ? data.itens : [])
+        .filter(function (i) { return i && i.titulo && /^https:\/\//.test(i.url || ""); })
+        .sort(function (a, b) { return (b.data || "").localeCompare(a.data || ""); })
+        .slice(0, 12);
+      box.textContent = "";
+      if (!items.length) { box.appendChild(el("p", "empty", "Nenhuma notícia publicada ainda. Volte em breve.")); return; }
+      if (data.atualizado) meta.textContent = "Atualizado em " + fmt(data.atualizado) + ". Notícias de fontes públicas, sempre com link para a reportagem original.";
+      items.forEach(function (i) {
+        var art = el("article", "item");
+        var t = el("time", null, fmt(i.data)); t.setAttribute("datetime", i.data || "");
+        var body = el("div", "body");
+        if (i.unidade) body.appendChild(el("span", "unit", i.unidade));
+        body.appendChild(el("h3", null, i.titulo));
+        if (i.resumo) body.appendChild(el("p", null, i.resumo));
+        var a = el("a", "src", "Ler em " + (i.fonte || "fonte original") + " ↗");
+        a.href = i.url; a.target = "_blank"; a.rel = "noopener";
+        body.appendChild(a);
+        art.appendChild(t); art.appendChild(body); box.appendChild(art);
+      });
+    })
+    .catch(function () {
+      box.textContent = "";
+      box.appendChild(el("p", "empty", "Não foi possível carregar as notícias agora. Recarregue a página em alguns instantes."));
+    });
+})();
+</script>
+</body>
+</html>

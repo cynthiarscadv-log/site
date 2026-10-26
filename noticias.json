@@ -1,0 +1,41 @@
+{
+  "atualizado": "2026-10-26",
+  "itens": [
+    {
+      "id": "2026-10-16-conectapp",
+      "data": "2026-10-16",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Cadastro on-line de visitantes pelo ConectaPP chega às 180 unidades prisionais de SP",
+      "resumo": "Desde 16/10, a Polícia Penal permite inscrever-se no rol de visitas, enviar documentos e acompanhar o pedido pela internet com conta Gov.br, em todas as unidades do estado.",
+      "fonte": "Metrópoles",
+      "url": "https://www.metropoles.com/sao-paulo/visitantes-sistema-prisional-sp"
+    },
+    {
+      "id": "2026-10-03-eleicao-unidades",
+      "data": "2026-10-03",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Eleição de 4 de outubro teve seções em 61 unidades prisionais paulistas",
+      "resumo": "Cerca de 3,9 mil eleitores, entre presos provisórios, jovens da Fundação CASA, servidores e mesários, ficaram aptos a votar dentro das unidades.",
+      "fonte": "Metrópoles",
+      "url": "https://metropoles.com/sao-paulo/4-mil-aptos-votar-cadeias-sp"
+    },
+    {
+      "id": "2026-07-30-cdp-americana",
+      "data": "2026-07-30",
+      "unidade": "CDP de Americana",
+      "titulo": "Justiça dá 90 dias para o Estado reduzir a superlotação do CDP de Americana",
+      "resumo": "A decisão suspende novas inclusões, manda transferir o excedente e corrigir problemas sanitários em 90 dias, e exige adequação contra incêndio em 180 dias, sob multa diária.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-da-90-dias-para-estado-de-sp-reduzir-superlotacao-de-presidio"
+    },
+    {
+      "id": "2026-07-29-superlotacao-sp",
+      "data": "2026-07-29",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Mais de 74% das unidades prisionais de SP operam acima da capacidade",
+      "resumo": "Dados da SAP de 28 de julho apontam cerca de 229 mil presos para pouco menos de 154 mil vagas no estado.",
+      "fonte": "Correio da Manhã",
+      "url": "https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/07/306332-superlotacao-atinge-mais-de-74-das-unidades-prisionais-de-sao-paulo.html"
+    }
+  ]
+}
