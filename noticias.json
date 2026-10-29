@@ -1,6 +1,33 @@
 {
-  "atualizado": "2026-10-26",
+  "atualizado": "2026-10-29",
   "itens": [
+    {
+      "id": "2026-10-28-serra-azul-mpt",
+      "data": "2026-10-28",
+      "unidade": "Penitenciária III de Serra Azul",
+      "titulo": "MPT apura denúncia de assédio moral contra policiais penais na Penitenciária III de Serra Azul",
+      "resumo": "Inquérito civil do MPT investiga cobranças excessivas e pressões a servidores da unidade; a Corregedoria da Polícia Penal abriu apuração preliminar.",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpt-investiga-assedio-moral-contra-policiais-penais-em-presidio-de-sp/"
+    },
+    {
+      "id": "2026-10-23-juri-videoconferencia",
+      "data": "2026-10-23",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "TJSP determina que líder de facção acompanhe júri por videoconferência",
+      "resumo": "Juiz vetou a ida de três réus ao fórum no júri marcado para maio de 2027, citando risco de resgate no transporte. A defesa afirma que vai recorrer.",
+      "fonte": "Metrópoles",
+      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/justica-barra-presenca-de-marcola-em-juri-por-temer-plano-de-resgate-do-pcc"
+    },
+    {
+      "id": "2026-10-21-stf-policia-penal",
+      "data": "2026-10-21",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "STF valida lei que organiza a Polícia Penal de SP sob a Secretaria da Administração Penitenciária",
+      "resumo": "O plenário virtual rejeitou ação de associação de policiais penais e manteve integralmente a LC 1.416/2024, que estrutura a carreira e a vincula à SAP.",
+      "fonte": "Diário do Estado de SP",
+      "url": "https://diarioesp.com.br/sao-paulo/2026/10/21/stf-mantem-lei-que-subordina-policia-penal-de-sp-a-administracao-penitenciaria.html"
+    },
     {
       "id": "2026-10-16-conectapp",
       "data": "2026-10-16",
