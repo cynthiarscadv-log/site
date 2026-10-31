@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-10-29",
+  "atualizado": "2026-10-31",
   "itens": [
+    {
+      "id": "2026-10-31-senappen-equipamentos",
+      "data": "2026-10-31",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Presídios paulistas vão receber R$ 34 milhões em equipamentos federais de segurança",
+      "resumo": "Senappen destina a SP scanners, raio-X, detectores de metal, drones e georradares para controle de acesso e inteligência; as unidades contempladas não foram divulgadas.",
+      "fonte": "Diário do Estado de SP",
+      "url": "https://diarioesp.com.br/sao-paulo/2026/10/31/presidios-paulistas-recebem-armamentos-e-tecnologia-federal-para-reforcar-seguranca.html"
+    },
+    {
+      "id": "2026-10-29-remicao-encceja",
+      "data": "2026-10-29",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: remição por aprovação no Encceja pode somar-se à remição por frequência escolar",
+      "resumo": "Em decisão monocrática no HC 1.117.406, o relator entendeu que as remições têm fatos geradores distintos, sem bis in idem, e concedeu de ofício 80 dias de remição.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-out-29/aprovacao-no-encceja-e-frequencia-escolar-geram-remicoes-de-pena-cumulaveis/"
+    },
     {
       "id": "2026-10-28-serra-azul-mpt",
       "data": "2026-10-28",
@@ -9,6 +27,24 @@
       "resumo": "Inquérito civil do MPT investiga cobranças excessivas e pressões a servidores da unidade; a Corregedoria da Polícia Penal abriu apuração preliminar.",
       "fonte": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpt-investiga-assedio-moral-contra-policiais-penais-em-presidio-de-sp/"
+    },
+    {
+      "id": "2026-10-27-pronuncia-inquerito",
+      "data": "2026-10-27",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ anula pronúncia apoiada só em depoimentos do inquérito, sem confirmação em juízo",
+      "resumo": "No REsp 2.284.026, o STJ aplicou o Tema 1.260 e desfez a pronúncia; nova denúncia segue possível se surgirem provas novas antes da extinção da punibilidade.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-out-27/depoimento-so-na-policia-nao-basta-para-mandar-reu-a-juri-decide-stj/"
+    },
+    {
+      "id": "2026-10-27-comutacao-hediondez",
+      "data": "2026-10-27",
+      "unidade": "Jurisprudência – STF",
+      "titulo": "STF: para comutação de pena, hediondez é aferida na data do decreto presidencial",
+      "resumo": "A 1ª Turma, por 3 a 1 no HC 270.735, negou comutação a condenado por roubo com arma de fogo, crime que se tornou hediondo após o Decreto 11.846/2023.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/467340/stf-para-comutacao-da-pena-vale-a-hediondez-do-crime-na-data-do-decreto"
     },
     {
       "id": "2026-10-23-juri-videoconferencia",
