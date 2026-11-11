@@ -1,6 +1,51 @@
 {
-  "atualizado": "2026-10-31",
+  "atualizado": "2026-11-11",
   "itens": [
+    {
+      "id": "2026-11-10-operacao-guarulhos",
+      "data": "2026-11-10",
+      "unidade": "CDP II de Guarulhos",
+      "titulo": "Operação prende policiais penais por esquema de drogas e celulares em presídios de Guarulhos",
+      "resumo": "Ficco/SP e Gaeco cumpriram 16 mandados de prisão e 21 de busca em sete cidades. Seis policiais penais foram presos; apuração começou com caso no CDP II de Guarulhos.",
+      "fonte": "OVALE (Sampi)",
+      "url": "https://sampi.net.br/ovale/noticias/3017632/vale-do-paraiba/2026/11/com-acoes-em-sao-jose-operacao-prende-6-policiais-penais-em-sp"
+    },
+    {
+      "id": "2026-11-10-juri-quesito-generico",
+      "data": "2026-11-10",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "5ª Turma do STJ manda refazer júri após absolvição no quesito genérico contrária às provas",
+      "resumo": "Com materialidade e autoria reconhecidas, a Turma viu absolvição manifestamente contrária à prova e determinou novo júri, aplicando as balizas fixadas pelo STF sobre o quesito genérico.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468298/5-turma-do-stj-manda-refazer-juri-apos-absolvicao-contraria-as-provas"
+    },
+    {
+      "id": "2026-11-10-cdp3-pinheiros-morte",
+      "data": "2026-11-10",
+      "unidade": "CDP III de Pinheiros",
+      "titulo": "Preso é encontrado morto em cela individual do CDP III de Pinheiros; SAP abre apuração",
+      "resumo": "O corpo foi achado na tarde de terça (10) na cela que o detento ocupava sozinho. Houve registro de boletim de ocorrência e a direção da unidade instaurou apuração preliminar.",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-e-encontrado-morto-em-cela-do-cdp-iii-de-pinheiros/"
+    },
+    {
+      "id": "2026-11-05-cdp2-pinheiros-caixa",
+      "data": "2026-11-05",
+      "unidade": "CDP II de Pinheiros",
+      "titulo": "Presos sobem em caixa d'água do CDP II de Pinheiros em protesto por direitos humanos",
+      "resumo": "Dois detentos subiram na caixa d'água com mensagens nas camisetas e foram retirados pela Polícia Penal. Não houve feridos nem reféns; ambos devem responder a sanção disciplinar.",
+      "fonte": "Diário de S. Paulo",
+      "url": "https://diarioesp.com.br/sao-paulo/2026/11/05/dois-detentos-sobem-em-caixa-d-agua-de-cdp-em-pinheiros-e-sao-resgatados-pela-policia-penal.html"
+    },
+    {
+      "id": "2026-11-03-trafico-dosimetria",
+      "data": "2026-11-03",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ fixa teses repetitivas sobre natureza e quantidade de droga na pena do tráfico",
+      "resumo": "3ª Seção (Temas 1.154 e 1.241): o binômio natureza/quantidade é valorado em conjunto, em regra na 3ª fase do tráfico privilegiado; usá-lo na pena-base e na fração é bis in idem.",
+      "fonte": "STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Terceira-Secao-define-cinco-teses-repetitivas-sobre-a-natureza-e-a-quantidade-de-drogas-no-calculo-da-pena-por.aspx"
+    },
     {
       "id": "2026-10-31-senappen-equipamentos",
       "data": "2026-10-31",
