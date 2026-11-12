@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11",
+  "atualizado": "2026-11-12",
   "itens": [
+    {
+      "id": "2026-11-11-tema1431-trafico-presidio",
+      "data": "2026-11-11",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: preso que encomenda droga ao presídio responde por tráfico mesmo sem recebê-la",
+      "resumo": "3ª Seção (Tema 1.431), por unanimidade: quem pede ou ajusta a entrada de droga na unidade responde por tráfico ainda que a apreensão ocorra antes, desde que provada sua participação.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468409/stj-preso-que-pede-droga-responde-por-trafico-mesmo-sem-recebe-la"
+    },
+    {
+      "id": "2026-11-10-sao-vicente-fuga",
+      "data": "2026-11-10",
+      "unidade": "Penitenciária II de São Vicente",
+      "titulo": "Dois presos do semiaberto fogem da Penitenciária II de São Vicente durante banho de sol",
+      "resumo": "Eles escalaram o muro da ala do semiaberto, fora das muralhas principais; um terceiro foi contido. A SAP registrou BO, abriu apuração e pediu a sustação cautelar do regime do preso contido.",
+      "fonte": "CBN Santos",
+      "url": "https://www.cbnsantos.com.br/noticias/noticias/dois-detentos-escapam-de-penitenciaria-em-sao-vicente-apos-escalar-muro-durante-banho-de-sol.html"
+    },
     {
       "id": "2026-11-10-operacao-guarulhos",
       "data": "2026-11-10",
@@ -27,6 +45,24 @@
       "resumo": "O corpo foi achado na tarde de terça (10) na cela que o detento ocupava sozinho. Houve registro de boletim de ocorrência e a direção da unidade instaurou apuração preliminar.",
       "fonte": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-e-encontrado-morto-em-cela-do-cdp-iii-de-pinheiros/"
+    },
+    {
+      "id": "2026-11-09-visitas-especiais",
+      "data": "2026-11-09",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Polícia Penal cria visitas especiais em datas comemorativas nas unidades prisionais de SP",
+      "resumo": "Portaria DGPP-10, no DOE de 9/11, prevê visitas de até 2 h em datas como Natal, Ano Novo e Dia das Mães, só para visitantes cadastrados e ativos; não gera direito próprio ao preso.",
+      "fonte": "Atlas Público",
+      "url": "https://atlaspublico.com.br/estados/sp/noticias/policia-penal-de-sp-institui-programa-de-visitas-especiais-99787"
+    },
+    {
+      "id": "2026-11-08-hc-resp-sem-merito",
+      "data": "2026-11-08",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "6ª Turma do STJ admite HC com mesmo pedido de recurso especial não julgado no mérito",
+      "resumo": "A Turma conheceu do habeas corpus e anulou busca domiciliar por fundamentação deficiente. Vencido o ministro Og Fernandes, que via no HC mera cópia do recurso não conhecido.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-08/cabe-hc-se-recurso-especial-no-stj-nao-teve-analise-de-merito/"
     },
     {
       "id": "2026-11-05-cdp2-pinheiros-caixa",
