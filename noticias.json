@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12",
+  "atualizado": "2026-11-13",
   "itens": [
+    {
+      "id": "2026-11-12-stf-violencia-patrimonial",
+      "data": "2026-11-12",
+      "unidade": "Jurisprudência – STF",
+      "titulo": "STF afasta imunidade penal em crimes patrimoniais contra a mulher na violência doméstica",
+      "resumo": "Por unanimidade, o Plenário decidiu que a escusa do art. 181 do CP não alcança furto, estelionato e outros crimes patrimoniais praticados contra a mulher em contexto de violência doméstica.",
+      "fonte": "O Povo",
+      "url": "https://www.opovo.com.br/noticias/politica/2026/11/12/stf-derruba-imunidade-para-punir-violencia-patrimonial-contra-mulheres.html"
+    },
+    {
+      "id": "2026-11-12-hc-inquerito-arquivado",
+      "data": "2026-11-12",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "5ª Turma do STJ: inquérito arquivado não justifica HC preventivo para discutir provas",
+      "resumo": "Sem denúncia, ação penal ou cautelar vigente, a simples chance de reabertura da investigação não é ameaça concreta à liberdade; a Turma não examinou alegada quebra da cadeia de custódia.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468274/stj-nao-cabe-habeas-corpus-para-questionar-prova-de-inquerito-arquivado"
+    },
     {
       "id": "2026-11-11-tema1431-trafico-presidio",
       "data": "2026-11-11",
