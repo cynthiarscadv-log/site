@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-13",
+  "atualizado": "2026-11-14",
   "itens": [
     {
       "id": "2026-11-12-stf-violencia-patrimonial",
@@ -27,6 +27,15 @@
       "resumo": "3ª Seção (Tema 1.431), por unanimidade: quem pede ou ajusta a entrada de droga na unidade responde por tráfico ainda que a apreensão ocorra antes, desde que provada sua participação.",
       "fonte": "Migalhas",
       "url": "https://www.migalhas.com.br/quentes/468409/stj-preso-que-pede-droga-responde-por-trafico-mesmo-sem-recebe-la"
+    },
+    {
+      "id": "2026-11-10-reconhecimento-fotografico",
+      "data": "2026-11-10",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ absolve réus condenados só com reconhecimento fotográfico induzido por cicatriz",
+      "resumo": "6ª Turma (AgRg no HC 1.056.253, Informativo 909): reconhecimento fora do art. 226 do CPP não basta para condenar sem prova independente, mesmo confirmado em juízo (Tema 1.258).",
+      "fonte": "Damásio Jurisprudência – Informativo STJ 909",
+      "url": "https://juris.damasio.com.br/jurisprudencia/julgado/909/reconhecimento-fotografico-e-fragilidade-probatoria-para-condenacao"
     },
     {
       "id": "2026-11-10-sao-vicente-fuga",
@@ -65,6 +74,15 @@
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-e-encontrado-morto-em-cela-do-cdp-iii-de-pinheiros/"
     },
     {
+      "id": "2026-11-09-pinheiros-superlotacao",
+      "data": "2026-11-09",
+      "unidade": "CDP de Pinheiros",
+      "titulo": "Sindicato aponta superlotação de 217% no CDP de Pinheiros, com 1.722 presos para 793 vagas",
+      "resumo": "Levantamento do sindicato dos policiais penais indica 92 servidores para mais de 1.700 detentos. Dado surgiu após episódio na caixa d'água do CDP II; SAP não comentou os números.",
+      "fonte": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-aponta-superlotacao-de-217-no-cdp-de-pinheiros-em-sao-paulo/"
+    },
+    {
       "id": "2026-11-09-visitas-especiais",
       "data": "2026-11-09",
       "unidade": "Sistema prisional de SP",
@@ -81,6 +99,15 @@
       "resumo": "A Turma conheceu do habeas corpus e anulou busca domiciliar por fundamentação deficiente. Vencido o ministro Og Fernandes, que via no HC mera cópia do recurso não conhecido.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-08/cabe-hc-se-recurso-especial-no-stj-nao-teve-analise-de-merito/"
+    },
+    {
+      "id": "2026-11-07-mutirao-mulheres",
+      "data": "2026-11-07",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Mutirão do CNJ revisa processos de mulheres presas de 9 a 27 de novembro",
+      "resumo": "3º Mutirão Pena Justa, nacional: tribunais reavaliam preventivas, domiciliares e monitoramento de mulheres, com prioridade a gestantes, mães, idosas e doentes, e julgam incidentes vencidos no SEEU.",
+      "fonte": "Acre Agora, com informações do CNJ",
+      "url": "https://acreagora.com/2026/11/07/cnj-anuncia-revisao-de-processos-de-mulheres-presas-entre-9-e-27-de-novembro/"
     },
     {
       "id": "2026-11-05-cdp2-pinheiros-caixa",
