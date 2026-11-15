@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14",
+  "atualizado": "2026-11-15",
   "itens": [
+    {
+      "id": "2026-11-14-abandono-juri",
+      "data": "2026-11-14",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: advogado que abandona júri já instalado deve ressarcir despesas do Estado",
+      "resumo": "13ª Câmara Criminal manteve cobrança de cerca de R$ 5 mil de defensores que deixaram o plenário em Cubatão. A cobrança é indenizatória (art. 362, §3º, CPC), não multa do art. 265 do CPP.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-14/abandono-de-tribunal-do-juri-gera-dever-de-ressarcimento-das-despesas/"
+    },
+    {
+      "id": "2026-11-13-escaner-maua",
+      "data": "2026-11-13",
+      "unidade": "CDP de Mauá e CDP de Santo André",
+      "titulo": "Escâner corporal barra visitantes com ilícitos nos CDPs de Mauá e Santo André",
+      "resumo": "No domingo (8), visitante foi flagrada com cerca de 132 g de substância semelhante à maconha no CDP de Mauá; o preso visitado foi para cela especial durante a apuração. Em Santo André, outra desistiu da visita.",
+      "fonte": "ABC Repórter",
+      "url": "https://abcreporter.com.br/2026/11/13/policiais-penais-policiais-penais-barram-ilicitos-em-presidios-do-abc-visitantes-de-entrarem-com-ilicitos-em-presidios-do-abc/"
+    },
     {
       "id": "2026-11-12-stf-violencia-patrimonial",
       "data": "2026-11-12",
@@ -27,6 +45,15 @@
       "resumo": "3ª Seção (Tema 1.431), por unanimidade: quem pede ou ajusta a entrada de droga na unidade responde por tráfico ainda que a apreensão ocorra antes, desde que provada sua participação.",
       "fonte": "Migalhas",
       "url": "https://www.migalhas.com.br/quentes/468409/stj-preso-que-pede-droga-responde-por-trafico-mesmo-sem-recebe-la"
+    },
+    {
+      "id": "2026-11-10-remicao-enem",
+      "data": "2026-11-10",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ fixa em repetitivo remição proporcional por aprovação parcial no Enem (Tema 1.270)",
+      "resumo": "3ª Seção (REsp 2.115.433, Informativo 909): aprovação parcial gera remição proporcional, vedada nova remição pelo mesmo fato; o acréscimo de 1/3 exige aprovação plena com certificação.",
+      "fonte": "STJ – Informativo de Jurisprudência 909",
+      "url": "https://juridico.ai/informativos/stj/informativo-909-stj/"
     },
     {
       "id": "2026-11-10-reconhecimento-fotografico",
