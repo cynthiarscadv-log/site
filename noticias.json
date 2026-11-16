@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-15",
+  "atualizado": "2026-11-16",
   "itens": [
+    {
+      "id": "2026-11-16-pinheiros-condicoes",
+      "data": "2026-11-16",
+      "unidade": "Complexo Prisional de Pinheiros",
+      "titulo": "Reportagem expõe superlotação, fome e sede no Complexo Prisional de Pinheiros",
+      "resumo": "Complexo tinha 5.007 presos para 2.485 vagas; só o CDP II, 1.745 para 793. Texto cita jejum de até 15 h apontado pela Defensoria e 78 unidades paulistas sem equipe do SUS, segundo dados da SAP.",
+      "fonte": "Brasil de Fato",
+      "url": "https://www.brasildefato.com.br/2026/11/16/superlotacao-fome-e-sede-o-que-esta-por-tras-da-camiseta-de-preso-pedindo-por-direitos-humanos-em-presidio-de-sp/"
+    },
     {
       "id": "2026-11-14-abandono-juri",
       "data": "2026-11-14",
