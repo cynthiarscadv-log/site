@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-16",
+  "atualizado": "2026-11-17",
   "itens": [
+    {
+      "id": "2026-11-16-stj-vitima-incapaz",
+      "data": "2026-11-16",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "6ª Turma do STJ: ato sexual contra adulta incapaz de resistir é estupro de vulnerável",
+      "resumo": "Aplicando o Tema 1.121, a 6ª Turma negou a desclassificação para importunação sexual: a incapacidade de resistir de vítima adulta recebe a mesma proteção dada a menores de 14 anos.",
+      "fonte": "STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/16112026-sexta-turma-afasta-importunacao-sexual-e-confirma-estupro-de-vulneravel-contra-vitima-adulta-incapaz.aspx"
+    },
     {
       "id": "2026-11-16-pinheiros-condicoes",
       "data": "2026-11-16",
@@ -18,6 +27,15 @@
       "resumo": "13ª Câmara Criminal manteve cobrança de cerca de R$ 5 mil de defensores que deixaram o plenário em Cubatão. A cobrança é indenizatória (art. 362, §3º, CPC), não multa do art. 265 do CPP.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-14/abandono-de-tribunal-do-juri-gera-dever-de-ressarcimento-das-despesas/"
+    },
+    {
+      "id": "2026-11-13-osasco-superlotacao",
+      "data": "2026-11-13",
+      "unidade": "CDP I e CDP II de Osasco",
+      "titulo": "CDPs de Osasco somam 2.379 presos para 1.666 vagas, com superlotação de 42,8%",
+      "resumo": "Dados de 13/11 apontam 1.194 presos no CDP I e 1.185 no CDP II, com 833 vagas cada. A SAP diz que as unidades operam dentro dos padrões e prevê duas novas unidades com 1.646 vagas.",
+      "fonte": "Giro S/A",
+      "url": "https://girosa.com.br/cdp-de-osasco-23-mil-presos-e-superlotacao-de-428/"
     },
     {
       "id": "2026-11-13-escaner-maua",
