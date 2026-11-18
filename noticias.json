@@ -1,6 +1,33 @@
 {
-  "atualizado": "2026-11-17",
+  "atualizado": "2026-11-18",
   "itens": [
+    {
+      "id": "2026-11-17-juri-monitoramento-advogados",
+      "data": "2026-11-17",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "5ª Turma do STJ valida júri em que conversas do réu com advogados foram monitoradas",
+      "resumo": "Réu acompanhou o júri de presídio federal e teve contato com a defesa gravado. STJ afastou a nulidade porque o monitoramento tinha ordem da Corregedoria da unidade.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-17/stj-valida-juri-em-que-reu-teve-contato-com-advogados-gravado-e-monitorado/"
+    },
+    {
+      "id": "2026-11-17-trafico-privilegiado-sentenca",
+      "data": "2026-11-17",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: condenação que transita após a sentença não afasta o tráfico privilegiado",
+      "resumo": "Requisitos do redutor do art. 33, § 4º, da Lei de Drogas são aferidos na data da sentença; trânsito em julgado posterior, mesmo por fato anterior, não retroage contra o réu.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-17/condenacao-posterior-a-sentenca-nao-retroage-para-afastar-trafico-privilegiado/"
+    },
+    {
+      "id": "2026-11-16-valparaiso-lavinia",
+      "data": "2026-11-16",
+      "unidade": "Penitenciárias de Valparaíso e Lavínia",
+      "titulo": "Escâner corporal flagra visitantes com drogas nas penitenciárias de Valparaíso e Lavínia",
+      "resumo": "No domingo (15), policiais penais localizaram drogas escondidas no corpo de visitantes nas duas unidades do Oeste Paulista. Casos foram levados à Polícia Civil.",
+      "fonte": "Agora na Região",
+      "url": "https://agoranaregiao.com.br/2026/11/16/policia-penal-intercepta-drogas-com-tres-visitantes-em-penitenciarias-do-oeste-paulista/"
+    },
     {
       "id": "2026-11-16-stj-vitima-incapaz",
       "data": "2026-11-16",
@@ -18,6 +45,15 @@
       "resumo": "Complexo tinha 5.007 presos para 2.485 vagas; só o CDP II, 1.745 para 793. Texto cita jejum de até 15 h apontado pela Defensoria e 78 unidades paulistas sem equipe do SUS, segundo dados da SAP.",
       "fonte": "Brasil de Fato",
       "url": "https://www.brasildefato.com.br/2026/11/16/superlotacao-fome-e-sede-o-que-esta-por-tras-da-camiseta-de-preso-pedindo-por-direitos-humanos-em-presidio-de-sp/"
+    },
+    {
+      "id": "2026-11-15-fatos-posteriores-pena",
+      "data": "2026-11-15",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: conduta do réu posterior ao crime não pode elevar a pena-base",
+      "resumo": "Em caso de homicídio, a Corte afastou a valoração negativa de fatos ocorridos depois do crime e reduziu o aumento da pena-base, fixando a pena final em 16 anos e 6 meses.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-15/fatos-posteriores-ao-crime-nao-devem-ser-considerados-para-majoracao-da-pena/"
     },
     {
       "id": "2026-11-14-abandono-juri",
