@@ -2,6 +2,15 @@
   "atualizado": "2026-11-19",
   "itens": [
     {
+      "id": "2026-11-19-feriado-consciencia-negra",
+      "data": "2026-11-19",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "TJSP não tem expediente nesta sexta (20/11), Dia da Consciência Negra; urgências vão ao plantão",
+      "resumo": "Pelo Provimento CSM nº 2.813/2025, não há expediente forense no TJSP em 20/11/2026 e os prazos não correm nesse dia; habeas corpus e demais urgências seguem pelo Plantão Judiciário.",
+      "fonte": "TJSP",
+      "url": "https://esaj.tjsp.jus.br/gcn-frontend-vue/legislacao/find/236794"
+    },
+    {
       "id": "2026-11-18-nao-localizacao-preventiva",
       "data": "2026-11-18",
       "unidade": "Jurisprudência – STJ",
@@ -351,15 +360,6 @@
       "resumo": "Cerca de 3,9 mil eleitores, entre presos provisórios, jovens da Fundação CASA, servidores e mesários, ficaram aptos a votar dentro das unidades.",
       "fonte": "Metrópoles",
       "url": "https://metropoles.com/sao-paulo/4-mil-aptos-votar-cadeias-sp"
-    },
-    {
-      "id": "2026-07-30-cdp-americana",
-      "data": "2026-07-30",
-      "unidade": "CDP de Americana",
-      "titulo": "Justiça dá 90 dias para o Estado reduzir a superlotação do CDP de Americana",
-      "resumo": "A decisão suspende novas inclusões, manda transferir o excedente e corrigir problemas sanitários em 90 dias, e exige adequação contra incêndio em 180 dias, sob multa diária.",
-      "fonte": "Agência Brasil",
-      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-da-90-dias-para-estado-de-sp-reduzir-superlotacao-de-presidio"
     }
   ]
 }
