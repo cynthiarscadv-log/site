@@ -2,6 +2,15 @@
   "atualizado": "2026-11-19",
   "itens": [
     {
+      "id": "2026-11-19-casa-branca-advogado",
+      "data": "2026-11-19",
+      "unidade": "Delegacia Seccional de Casa Branca",
+      "titulo": "OAB SP aciona MP após advogado ser imobilizado e algemado por PMs em delegacia de Casa Branca",
+      "resumo": "Advogado foi contido ao pedir tratamento digno a cliente preso. Dois PMs foram autuados em flagrante e soltos pela Justiça Militar; a OAB SP fala em violação de prerrogativas e pediu preservação das imagens.",
+      "fonte": "Porto Ferreira Hoje",
+      "url": "https://www.portoferreirahoje.com.br/noticia/2026/11/19/dois-policiais-militares-sao-soltos-apos-prisao-por-suspeita-de-agressao-a-advogado-em-casa-branca/"
+    },
+    {
       "id": "2026-11-19-feriado-consciencia-negra",
       "data": "2026-11-19",
       "unidade": "Sistema prisional de SP",
@@ -45,6 +54,15 @@
       "resumo": "Contrato com a CDHU, publicado no Diário Oficial em 12/11, prevê projetos em 480 dias para duas unidades de mil vagas, com bloqueio de comunicações; a obra ainda depende de nova licitação.",
       "fonte": "TMC",
       "url": "https://tmc.com.br/brasil/governo-sp-projeto-construcao-unidades-seguranca-maxima/"
+    },
+    {
+      "id": "2026-11-17-preventiva-poder-economico",
+      "data": "2026-11-17",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: poder econômico, sozinho, não justifica preventiva; prisão exige risco concreto de fuga",
+      "resumo": "A 6ª Turma manteve preventivas com base em risco concreto de fuga, mas o relator, ministro Schietti, frisou que a capacidade financeira isolada não basta, sob pena de tratar ricos e pobres de forma desigual.",
+      "fonte": "JuriNews",
+      "url": "https://jurinews.com.br/destaque-nacional/stj-mantem-prisoes-preventivas-de-hytalo-santos-e-israel-vicente-por-risco-de-fuga"
     },
     {
       "id": "2026-11-17-juri-monitoramento-advogados",
@@ -117,6 +135,15 @@
       "resumo": "13ª Câmara Criminal manteve cobrança de cerca de R$ 5 mil de defensores que deixaram o plenário em Cubatão. A cobrança é indenizatória (art. 362, §3º, CPC), não multa do art. 265 do CPP.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-14/abandono-de-tribunal-do-juri-gera-dever-de-ressarcimento-das-despesas/"
+    },
+    {
+      "id": "2026-11-13-cnj-prazos-microsoft",
+      "data": "2026-11-13",
+      "unidade": "Jurisprudência – CNJ",
+      "titulo": "CNJ suspende prazos processuais de 12 e 13/11 em todo o país por pane no Microsoft 365",
+      "resumo": "A Portaria Presidência nº 551/2026 suspendeu os prazos nos dias 12 e 13/11, a pedido da OAB; a contagem voltou em 16/11. Casos afetados fora da portaria podem ser analisados pelo juízo ou relator.",
+      "fonte": "CNJ",
+      "url": "https://www.cnj.jus.br/cnj-suspende-prazos-processuais-por-instabilidade-no-microsoft-365/"
     },
     {
       "id": "2026-11-13-certidao-execucoes-tjsp",
@@ -333,33 +360,6 @@
       "resumo": "Juiz vetou a ida de três réus ao fórum no júri marcado para maio de 2027, citando risco de resgate no transporte. A defesa afirma que vai recorrer.",
       "fonte": "Metrópoles",
       "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/justica-barra-presenca-de-marcola-em-juri-por-temer-plano-de-resgate-do-pcc"
-    },
-    {
-      "id": "2026-10-21-stf-policia-penal",
-      "data": "2026-10-21",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "STF valida lei que organiza a Polícia Penal de SP sob a Secretaria da Administração Penitenciária",
-      "resumo": "O plenário virtual rejeitou ação de associação de policiais penais e manteve integralmente a LC 1.416/2024, que estrutura a carreira e a vincula à SAP.",
-      "fonte": "Diário do Estado de SP",
-      "url": "https://diarioesp.com.br/sao-paulo/2026/10/21/stf-mantem-lei-que-subordina-policia-penal-de-sp-a-administracao-penitenciaria.html"
-    },
-    {
-      "id": "2026-10-16-conectapp",
-      "data": "2026-10-16",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Cadastro on-line de visitantes pelo ConectaPP chega às 180 unidades prisionais de SP",
-      "resumo": "Desde 16/10, a Polícia Penal permite inscrever-se no rol de visitas, enviar documentos e acompanhar o pedido pela internet com conta Gov.br, em todas as unidades do estado.",
-      "fonte": "Metrópoles",
-      "url": "https://www.metropoles.com/sao-paulo/visitantes-sistema-prisional-sp"
-    },
-    {
-      "id": "2026-10-03-eleicao-unidades",
-      "data": "2026-10-03",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Eleição de 4 de outubro teve seções em 61 unidades prisionais paulistas",
-      "resumo": "Cerca de 3,9 mil eleitores, entre presos provisórios, jovens da Fundação CASA, servidores e mesários, ficaram aptos a votar dentro das unidades.",
-      "fonte": "Metrópoles",
-      "url": "https://metropoles.com/sao-paulo/4-mil-aptos-votar-cadeias-sp"
     }
   ]
 }
