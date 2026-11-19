@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-18",
+  "atualizado": "2026-11-19",
   "itens": [
+    {
+      "id": "2026-11-18-nao-localizacao-preventiva",
+      "data": "2026-11-18",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: não localizar o réu para citação não basta para presumir fuga e decretar preventiva",
+      "resumo": "5ª Turma revogou preventiva decretada mais de quatro anos após tentativa de homicídio: o acusado respondeu solto à investigação e a não localização, sozinha, não demonstra risco à aplicação da lei penal.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468918/stj-revoga-prisao-de-reu-nao-localizado-mais-de-quatro-anos-apos-crime"
+    },
     {
       "id": "2026-11-18-escusas-modulacao",
       "data": "2026-11-18",
@@ -47,6 +56,15 @@
       "url": "https://conjur.com.br/2026-nov-17/condenacao-posterior-a-sentenca-nao-retroage-para-afastar-trafico-privilegiado/"
     },
     {
+      "id": "2026-11-16-caragua-tremembe-revista",
+      "data": "2026-11-16",
+      "unidade": "CDP de Caraguatatuba e CPP de Tremembé",
+      "titulo": "Revista barra oito visitantes no CDP de Caraguatatuba e no CPP de Tremembé",
+      "resumo": "No fim de semana de 14 e 15/11, o escâner corporal apontou imagens suspeitas: cinco visitantes foram barrados em Caraguá e uma visitante foi levada à delegacia em Taubaté; unidade abriu procedimento.",
+      "fonte": "Portal R3",
+      "url": "https://www.portalr3.com.br/2026/11/16/cdp-de-caragua-e-cpp-de-tremembe-interceptam-familiares-de-presos-em-revista-para-visitacao"
+    },
+    {
       "id": "2026-11-16-valparaiso-lavinia",
       "data": "2026-11-16",
       "unidade": "Penitenciárias de Valparaíso e Lavínia",
@@ -90,6 +108,15 @@
       "resumo": "13ª Câmara Criminal manteve cobrança de cerca de R$ 5 mil de defensores que deixaram o plenário em Cubatão. A cobrança é indenizatória (art. 362, §3º, CPC), não multa do art. 265 do CPP.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-14/abandono-de-tribunal-do-juri-gera-dever-de-ressarcimento-das-despesas/"
+    },
+    {
+      "id": "2026-11-13-certidao-execucoes-tjsp",
+      "data": "2026-11-13",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "TJSP muda certidão criminal: execuções passam a constar e exigem complemento eproc/SEEU",
+      "resumo": "Desde 13/11, a certidão criminal do SAJ passa a incluir execuções criminais e deve ser complementada pela certidão de 1º grau dos sistemas eproc e SEEU; a de execução do SAJ deixa de existir em separado.",
+      "fonte": "TJSP",
+      "url": "https://www.tjsp.jus.br/Certidoes/Certidoes/CertidoesPrimeiraInstancia"
     },
     {
       "id": "2026-11-13-osasco-superlotacao",
@@ -333,15 +360,6 @@
       "resumo": "A decisão suspende novas inclusões, manda transferir o excedente e corrigir problemas sanitários em 90 dias, e exige adequação contra incêndio em 180 dias, sob multa diária.",
       "fonte": "Agência Brasil",
       "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/justica-da-90-dias-para-estado-de-sp-reduzir-superlotacao-de-presidio"
-    },
-    {
-      "id": "2026-07-29-superlotacao-sp",
-      "data": "2026-07-29",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Mais de 74% das unidades prisionais de SP operam acima da capacidade",
-      "resumo": "Dados da SAP de 28 de julho apontam cerca de 229 mil presos para pouco menos de 154 mil vagas no estado.",
-      "fonte": "Correio da Manhã",
-      "url": "https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/07/306332-superlotacao-atinge-mais-de-74-das-unidades-prisionais-de-sao-paulo.html"
     }
   ]
 }
