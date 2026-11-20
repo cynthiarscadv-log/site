@@ -11,6 +11,15 @@
       "url": "https://conjur.com.br/2026-nov-20/demora-em-apuracao-de-infracao-desfaz-regressao-cautelar-de-pena/"
     },
     {
+      "id": "2026-11-19-itatiba-presidio-federal",
+      "data": "2026-11-19",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Justiça recebe denúncia contra célula do PCC que vigiava a polícia e manda líder a presídio federal",
+      "resumo": "Denúncia do Gaeco contra nove acusados de manter 28 câmeras para monitorar PM e GCM em Itatiba foi recebida em 10/11. Oito tiveram preventiva decretada e o apontado líder será transferido a presídio federal.",
+      "fonte": "Porto Ferreira Hoje",
+      "url": "https://www.portoferreirahoje.com.br/noticia/2026/11/19/pcc-mantinha-28-cameras-para-monitorar-policiais-24-horas-por-dia-em-itatiba-sp/"
+    },
+    {
       "id": "2026-11-19-lei-dosimetria",
       "data": "2026-11-19",
       "unidade": "Jurisprudência – STF",
@@ -351,15 +360,6 @@
       "resumo": "Em decisão monocrática no HC 1.117.406, o relator entendeu que as remições têm fatos geradores distintos, sem bis in idem, e concedeu de ofício 80 dias de remição.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-out-29/aprovacao-no-encceja-e-frequencia-escolar-geram-remicoes-de-pena-cumulaveis/"
-    },
-    {
-      "id": "2026-10-28-serra-azul-mpt",
-      "data": "2026-10-28",
-      "unidade": "Penitenciária III de Serra Azul",
-      "titulo": "MPT apura denúncia de assédio moral contra policiais penais na Penitenciária III de Serra Azul",
-      "resumo": "Inquérito civil do MPT investiga cobranças excessivas e pressões a servidores da unidade; a Corregedoria da Polícia Penal abriu apuração preliminar.",
-      "fonte": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpt-investiga-assedio-moral-contra-policiais-penais-em-presidio-de-sp/"
     }
   ]
 }
