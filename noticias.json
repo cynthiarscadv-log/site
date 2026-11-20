@@ -2,6 +2,24 @@
   "atualizado": "2026-11-20",
   "itens": [
     {
+      "id": "2026-11-20-regressao-cautelar",
+      "data": "2026-11-20",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: demora em apurar falta disciplinar desfaz regressão cautelar e devolve preso ao semiaberto",
+      "resumo": "Núcleo 4.0 concedeu HC: sem apuração da infração no prazo da Resolução SAP 144/2010, a regressão cautelar vira antecipação de pena e não pode subsistir.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-20/demora-em-apuracao-de-infracao-desfaz-regressao-cautelar-de-pena/"
+    },
+    {
+      "id": "2026-11-19-lei-dosimetria",
+      "data": "2026-11-19",
+      "unidade": "Jurisprudência – STF",
+      "titulo": "STF julgará Lei da Dosimetria (Lei 15.402/2026) em plenário virtual de 4 a 15 de dezembro",
+      "resumo": "Moraes liberou as ADIs 7966 a 7969 contra a lei que altera penas e progressão de regime; a aplicação da norma segue suspensa até o julgamento.",
+      "fonte": "Agência Brasil",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-4-de-dezembro"
+    },
+    {
       "id": "2026-11-19-empate-favorece-defesa",
       "data": "2026-11-19",
       "unidade": "Jurisprudência – STJ",
@@ -342,24 +360,6 @@
       "resumo": "Inquérito civil do MPT investiga cobranças excessivas e pressões a servidores da unidade; a Corregedoria da Polícia Penal abriu apuração preliminar.",
       "fonte": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mpt-investiga-assedio-moral-contra-policiais-penais-em-presidio-de-sp/"
-    },
-    {
-      "id": "2026-10-27-pronuncia-inquerito",
-      "data": "2026-10-27",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "STJ anula pronúncia apoiada só em depoimentos do inquérito, sem confirmação em juízo",
-      "resumo": "No REsp 2.284.026, o STJ aplicou o Tema 1.260 e desfez a pronúncia; nova denúncia segue possível se surgirem provas novas antes da extinção da punibilidade.",
-      "fonte": "Conjur",
-      "url": "https://conjur.com.br/2026-out-27/depoimento-so-na-policia-nao-basta-para-mandar-reu-a-juri-decide-stj/"
-    },
-    {
-      "id": "2026-10-27-comutacao-hediondez",
-      "data": "2026-10-27",
-      "unidade": "Jurisprudência – STF",
-      "titulo": "STF: para comutação de pena, hediondez é aferida na data do decreto presidencial",
-      "resumo": "A 1ª Turma, por 3 a 1 no HC 270.735, negou comutação a condenado por roubo com arma de fogo, crime que se tornou hediondo após o Decreto 11.846/2023.",
-      "fonte": "Migalhas",
-      "url": "https://www.migalhas.com.br/quentes/467340/stf-para-comutacao-da-pena-vale-a-hediondez-do-crime-na-data-do-decreto"
     }
   ]
 }
