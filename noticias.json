@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-19",
+  "atualizado": "2026-11-20",
   "itens": [
+    {
+      "id": "2026-11-19-empate-favorece-defesa",
+      "data": "2026-11-19",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: empate na 6ª Turma mantém anulado júri por acesso tardio da defesa a gravações",
+      "resumo": "Embargos do MP terminaram 2 a 2 e, pela Lei 14.836/2024, o empate favorece o réu. Fica mantida a anulação: a defesa só acessou depoimentos de corréus no 7º dia do júri, o que feriu a paridade de armas.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468930/crime-da-113-sul-stj-empata-sobre-condenacao-de-adriana-villela"
+    },
     {
       "id": "2026-11-19-casa-branca-advogado",
       "data": "2026-11-19",
@@ -351,15 +360,6 @@
       "resumo": "A 1ª Turma, por 3 a 1 no HC 270.735, negou comutação a condenado por roubo com arma de fogo, crime que se tornou hediondo após o Decreto 11.846/2023.",
       "fonte": "Migalhas",
       "url": "https://www.migalhas.com.br/quentes/467340/stf-para-comutacao-da-pena-vale-a-hediondez-do-crime-na-data-do-decreto"
-    },
-    {
-      "id": "2026-10-23-juri-videoconferencia",
-      "data": "2026-10-23",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "TJSP determina que líder de facção acompanhe júri por videoconferência",
-      "resumo": "Juiz vetou a ida de três réus ao fórum no júri marcado para maio de 2027, citando risco de resgate no transporte. A defesa afirma que vai recorrer.",
-      "fonte": "Metrópoles",
-      "url": "https://www.metropoles.com/colunas/mirelle-pinheiro/justica-barra-presenca-de-marcola-em-juri-por-temer-plano-de-resgate-do-pcc"
     }
   ]
 }
