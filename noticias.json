@@ -2,6 +2,15 @@
   "atualizado": "2026-11-21",
   "itens": [
     {
+      "id": "2026-11-21-hc-falta-grave",
+      "data": "2026-11-21",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: vencido o prazo do agravo em execução, falta grave pode ser discutida por habeas corpus",
+      "resumo": "Ministro do STJ reconsiderou decisão e mandou o TJSP conhecer HC contra falta grave: passados os 5 dias do agravo (Súmula 700/STF), o writ é via válida para ilegalidade manifesta, como no HC 104.190 do STF.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-21/falta-grave-pode-ser-discuta-em-hc-se-prazo-de-agravo-em-execucao-expirou/"
+    },
+    {
       "id": "2026-11-20-juri-demonio-prejuizo",
       "data": "2026-11-20",
       "unidade": "Jurisprudência – TJSP",
@@ -351,15 +360,6 @@
       "resumo": "3ª Seção (Temas 1.154 e 1.241): o binômio natureza/quantidade é valorado em conjunto, em regra na 3ª fase do tráfico privilegiado; usá-lo na pena-base e na fração é bis in idem.",
       "fonte": "STJ",
       "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Terceira-Secao-define-cinco-teses-repetitivas-sobre-a-natureza-e-a-quantidade-de-drogas-no-calculo-da-pena-por.aspx"
-    },
-    {
-      "id": "2026-10-31-senappen-equipamentos",
-      "data": "2026-10-31",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Presídios paulistas vão receber R$ 34 milhões em equipamentos federais de segurança",
-      "resumo": "Senappen destina a SP scanners, raio-X, detectores de metal, drones e georradares para controle de acesso e inteligência; as unidades contempladas não foram divulgadas.",
-      "fonte": "Diário do Estado de SP",
-      "url": "https://diarioesp.com.br/sao-paulo/2026/10/31/presidios-paulistas-recebem-armamentos-e-tecnologia-federal-para-reforcar-seguranca.html"
     }
   ]
 }
