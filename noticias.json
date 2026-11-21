@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-20",
+  "atualizado": "2026-11-21",
   "itens": [
+    {
+      "id": "2026-11-20-juri-demonio-prejuizo",
+      "data": "2026-11-20",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: termo \"demônio\" dito pela defesa no júri não anula absolvição sem prova de prejuízo",
+      "resumo": "A 12ª Câmara Criminal negou apelação do MP contra júri de Presidente Prudente: a expressão usada pelo advogado na tréplica não basta para anular o veredito, pois nulidade no júri exige prejuízo efetivo.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-20/tj-sp-nao-ve-prejuizo-no-uso-do-termo-demonio-em-juri-e-mantem-absolvicao/"
+    },
     {
       "id": "2026-11-20-regressao-cautelar",
       "data": "2026-11-20",
@@ -351,15 +360,6 @@
       "resumo": "Senappen destina a SP scanners, raio-X, detectores de metal, drones e georradares para controle de acesso e inteligência; as unidades contempladas não foram divulgadas.",
       "fonte": "Diário do Estado de SP",
       "url": "https://diarioesp.com.br/sao-paulo/2026/10/31/presidios-paulistas-recebem-armamentos-e-tecnologia-federal-para-reforcar-seguranca.html"
-    },
-    {
-      "id": "2026-10-29-remicao-encceja",
-      "data": "2026-10-29",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "STJ: remição por aprovação no Encceja pode somar-se à remição por frequência escolar",
-      "resumo": "Em decisão monocrática no HC 1.117.406, o relator entendeu que as remições têm fatos geradores distintos, sem bis in idem, e concedeu de ofício 80 dias de remição.",
-      "fonte": "Conjur",
-      "url": "https://conjur.com.br/2026-out-29/aprovacao-no-encceja-e-frequencia-escolar-geram-remicoes-de-pena-cumulaveis/"
     }
   ]
 }
