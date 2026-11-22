@@ -2,6 +2,15 @@
   "atualizado": "2026-11-22",
   "itens": [
     {
+      "id": "2026-11-21-injuria-cameras",
+      "data": "2026-11-21",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: falta de imagens de câmeras não basta para afastar condenação amparada em testemunhas",
+      "resumo": "A 14ª Câmara Criminal, por maioria, rejeitou alegação de cerceamento de defesa pela ausência de gravações e manteve condenação por injúria racial em Lins, com base em testemunhas presenciais.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-21/tj-sp-condena-homem-por-injuria-racial-contra-porteiro-de-hospital/"
+    },
+    {
       "id": "2026-11-21-hc-falta-grave",
       "data": "2026-11-21",
       "unidade": "Jurisprudência – STJ",
@@ -351,15 +360,6 @@
       "resumo": "A Turma conheceu do habeas corpus e anulou busca domiciliar por fundamentação deficiente. Vencido o ministro Og Fernandes, que via no HC mera cópia do recurso não conhecido.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-08/cabe-hc-se-recurso-especial-no-stj-nao-teve-analise-de-merito/"
-    },
-    {
-      "id": "2026-11-07-mutirao-mulheres",
-      "data": "2026-11-07",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Mutirão do CNJ revisa processos de mulheres presas de 9 a 27 de novembro",
-      "resumo": "3º Mutirão Pena Justa, nacional: tribunais reavaliam preventivas, domiciliares e monitoramento de mulheres, com prioridade a gestantes, mães, idosas e doentes, e julgam incidentes vencidos no SEEU.",
-      "fonte": "Acre Agora, com informações do CNJ",
-      "url": "https://acreagora.com/2026/11/07/cnj-anuncia-revisao-de-processos-de-mulheres-presas-entre-9-e-27-de-novembro/"
     }
   ]
 }
