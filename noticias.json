@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-21",
+  "atualizado": "2026-11-22",
   "itens": [
     {
       "id": "2026-11-21-hc-falta-grave",
@@ -27,6 +27,24 @@
       "resumo": "Núcleo 4.0 concedeu HC: sem apuração da infração no prazo da Resolução SAP 144/2010, a regressão cautelar vira antecipação de pena e não pode subsistir.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-20/demora-em-apuracao-de-infracao-desfaz-regressao-cautelar-de-pena/"
+    },
+    {
+      "id": "2026-11-19-streifinger-sap",
+      "data": "2026-11-19",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "Tarcísio mantém Marcello Streifinger no comando da SAP no segundo mandato, a partir de 2027",
+      "resumo": "Coronel da reserva da PM, ele chefia a Administração Penitenciária desde 2023 e seguirá no cargo. Sindicato dos policiais penais criticou a escolha, citando a superlotação das unidades.",
+      "fonte": "Repórter Diário (Estadão Conteúdo)",
+      "url": "https://www.reporterdiario.com.br/noticia/3931759/em-sp-tarcisio-confirma-nomes-no-desenvolvimento-social-e-na-administracao-penitenciaria/"
+    },
+    {
+      "id": "2026-11-19-pericia-videos",
+      "data": "2026-11-19",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "5ª Turma do STJ: sem indício concreto de adulteração, perícia em vídeo de câmera pode ser negada",
+      "resumo": "Imagens extraídas com ata notarial e condenação apoiada também em depoimentos afastaram a tese de quebra da cadeia de custódia (arts. 158-A e 158-B do CPP). Turma distinguiu caso com sinais de edição.",
+      "fonte": "Migalhas",
+      "url": "https://www.migalhas.com.br/quentes/468983/stj-nega-pericia-em-videos-de-homem-que-agrediu-mulher-em-academia"
     },
     {
       "id": "2026-11-19-itatiba-presidio-federal",
@@ -342,24 +360,6 @@
       "resumo": "3º Mutirão Pena Justa, nacional: tribunais reavaliam preventivas, domiciliares e monitoramento de mulheres, com prioridade a gestantes, mães, idosas e doentes, e julgam incidentes vencidos no SEEU.",
       "fonte": "Acre Agora, com informações do CNJ",
       "url": "https://acreagora.com/2026/11/07/cnj-anuncia-revisao-de-processos-de-mulheres-presas-entre-9-e-27-de-novembro/"
-    },
-    {
-      "id": "2026-11-05-cdp2-pinheiros-caixa",
-      "data": "2026-11-05",
-      "unidade": "CDP II de Pinheiros",
-      "titulo": "Presos sobem em caixa d'água do CDP II de Pinheiros em protesto por direitos humanos",
-      "resumo": "Dois detentos subiram na caixa d'água com mensagens nas camisetas e foram retirados pela Polícia Penal. Não houve feridos nem reféns; ambos devem responder a sanção disciplinar.",
-      "fonte": "Diário de S. Paulo",
-      "url": "https://diarioesp.com.br/sao-paulo/2026/11/05/dois-detentos-sobem-em-caixa-d-agua-de-cdp-em-pinheiros-e-sao-resgatados-pela-policia-penal.html"
-    },
-    {
-      "id": "2026-11-03-trafico-dosimetria",
-      "data": "2026-11-03",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "STJ fixa teses repetitivas sobre natureza e quantidade de droga na pena do tráfico",
-      "resumo": "3ª Seção (Temas 1.154 e 1.241): o binômio natureza/quantidade é valorado em conjunto, em regra na 3ª fase do tráfico privilegiado; usá-lo na pena-base e na fração é bis in idem.",
-      "fonte": "STJ",
-      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Terceira-Secao-define-cinco-teses-repetitivas-sobre-a-natureza-e-a-quantidade-de-drogas-no-calculo-da-pena-por.aspx"
     }
   ]
 }
