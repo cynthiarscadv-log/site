@@ -2,6 +2,15 @@
   "atualizado": "2026-11-23",
   "itens": [
     {
+      "id": "2026-11-23-prisao-apos-hc",
+      "data": "2026-11-23",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: Estado indeniza preso mantido 8 dias após HC, mesmo com detração na pena posterior",
+      "resumo": "4ª Turma Recursal de Fazenda Pública fixou R$ 10 mil por danos morais a homem mantido preso após ordem de habeas corpus; descontar o período em condenação posterior não afasta a indenização.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-23/prisao-irregular-pode-detrair-pena-posterior-e-tambem-gerar-danos-morais/"
+    },
+    {
       "id": "2026-11-22-custos-vulnerabilis",
       "data": "2026-11-22",
       "unidade": "Jurisprudência – STJ",
@@ -351,15 +360,6 @@
       "resumo": "Levantamento do sindicato dos policiais penais indica 92 servidores para mais de 1.700 detentos. Dado surgiu após episódio na caixa d'água do CDP II; SAP não comentou os números.",
       "fonte": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-aponta-superlotacao-de-217-no-cdp-de-pinheiros-em-sao-paulo/"
-    },
-    {
-      "id": "2026-11-09-visitas-especiais",
-      "data": "2026-11-09",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Polícia Penal cria visitas especiais em datas comemorativas nas unidades prisionais de SP",
-      "resumo": "Portaria DGPP-10, no DOE de 9/11, prevê visitas de até 2 h em datas como Natal, Ano Novo e Dia das Mães, só para visitantes cadastrados e ativos; não gera direito próprio ao preso.",
-      "fonte": "Atlas Público",
-      "url": "https://atlaspublico.com.br/estados/sp/noticias/policia-penal-de-sp-institui-programa-de-visitas-especiais-99787"
     }
   ]
 }
