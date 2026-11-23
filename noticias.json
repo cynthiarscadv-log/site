@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-22",
+  "atualizado": "2026-11-23",
   "itens": [
+    {
+      "id": "2026-11-22-custos-vulnerabilis",
+      "data": "2026-11-22",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ reúne precedentes: Defensoria pode atuar na execução penal mesmo com advogado constituído",
+      "resumo": "Especial do STJ consolida a atuação da Defensoria como custos vulnerabilis: na execução penal, a 5ª Turma admite a intervenção em reforço à defesa técnica, sem substituir o advogado; não é automática.",
+      "fonte": "STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/22112026-Custos-vulnerabilis-a-visao-do-STJ-sobre-a-atuacao-da-Defensoria-Publica-na-defesa-dos-vulneraveis---.aspx"
+    },
     {
       "id": "2026-11-21-injuria-cameras",
       "data": "2026-11-21",
@@ -351,15 +360,6 @@
       "resumo": "Portaria DGPP-10, no DOE de 9/11, prevê visitas de até 2 h em datas como Natal, Ano Novo e Dia das Mães, só para visitantes cadastrados e ativos; não gera direito próprio ao preso.",
       "fonte": "Atlas Público",
       "url": "https://atlaspublico.com.br/estados/sp/noticias/policia-penal-de-sp-institui-programa-de-visitas-especiais-99787"
-    },
-    {
-      "id": "2026-11-08-hc-resp-sem-merito",
-      "data": "2026-11-08",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "6ª Turma do STJ admite HC com mesmo pedido de recurso especial não julgado no mérito",
-      "resumo": "A Turma conheceu do habeas corpus e anulou busca domiciliar por fundamentação deficiente. Vencido o ministro Og Fernandes, que via no HC mera cópia do recurso não conhecido.",
-      "fonte": "Conjur",
-      "url": "https://conjur.com.br/2026-nov-08/cabe-hc-se-recurso-especial-no-stj-nao-teve-analise-de-merito/"
     }
   ]
 }
