@@ -2,6 +2,15 @@
   "atualizado": "2026-11-24",
   "itens": [
     {
+      "id": "2026-11-23-motim-tremembe",
+      "data": "2026-11-23",
+      "unidade": "Penitenciária I de Tremembé",
+      "titulo": "Motim com 21 presos na P1 de Tremembé termina com cinco feridos leves e envolvidos no disciplinar",
+      "resumo": "Presos do raio 6 se recusaram a voltar às celas, montaram barricada e tentaram atear fogo; a intervenção rápida controlou a ação. A unidade tem 2.298 presos para 1.278 vagas.",
+      "fonte": "AgoraVale",
+      "url": "https://agoravale.com.br/noticias/policial/motim-envolvendo-21-detentos-mobilizou-equipes-de-seguranca-da-penitenciaria-i-de-tremembe"
+    },
+    {
       "id": "2026-11-23-majorantes-cascata",
       "data": "2026-11-23",
       "unidade": "Jurisprudência – STJ",
@@ -351,15 +360,6 @@
       "resumo": "Com materialidade e autoria reconhecidas, a Turma viu absolvição manifestamente contrária à prova e determinou novo júri, aplicando as balizas fixadas pelo STF sobre o quesito genérico.",
       "fonte": "Migalhas",
       "url": "https://www.migalhas.com.br/quentes/468298/5-turma-do-stj-manda-refazer-juri-apos-absolvicao-contraria-as-provas"
-    },
-    {
-      "id": "2026-11-10-cdp3-pinheiros-morte",
-      "data": "2026-11-10",
-      "unidade": "CDP III de Pinheiros",
-      "titulo": "Preso é encontrado morto em cela individual do CDP III de Pinheiros; SAP abre apuração",
-      "resumo": "O corpo foi achado na tarde de terça (10) na cela que o detento ocupava sozinho. Houve registro de boletim de ocorrência e a direção da unidade instaurou apuração preliminar.",
-      "fonte": "CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-e-encontrado-morto-em-cela-do-cdp-iii-de-pinheiros/"
     }
   ]
 }
