@@ -2,6 +2,15 @@
   "atualizado": "2026-11-24",
   "itens": [
     {
+      "id": "2026-11-24-preventiva-pena-maxima",
+      "data": "2026-11-24",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJSP: soma de penas máximas abaixo de 4 anos impede preventiva de réu primário",
+      "resumo": "Em HC, desembargador do TJSP revogou preventiva de acusado de embriaguez ao volante e desobediência: as penas máximas somadas não atingem o patamar do art. 313, I, do CPP e o réu é primário.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-24/pena-maxima-inferior-a-quatro-anos-impede-decretacao-de-prisao-preventiva/"
+    },
+    {
       "id": "2026-11-23-motim-tremembe",
       "data": "2026-11-23",
       "unidade": "Penitenciária I de Tremembé",
@@ -351,15 +360,6 @@
       "resumo": "Ficco/SP e Gaeco cumpriram 16 mandados de prisão e 21 de busca em sete cidades. Seis policiais penais foram presos; apuração começou com caso no CDP II de Guarulhos.",
       "fonte": "OVALE (Sampi)",
       "url": "https://sampi.net.br/ovale/noticias/3017632/vale-do-paraiba/2026/11/com-acoes-em-sao-jose-operacao-prende-6-policiais-penais-em-sp"
-    },
-    {
-      "id": "2026-11-10-juri-quesito-generico",
-      "data": "2026-11-10",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "5ª Turma do STJ manda refazer júri após absolvição no quesito genérico contrária às provas",
-      "resumo": "Com materialidade e autoria reconhecidas, a Turma viu absolvição manifestamente contrária à prova e determinou novo júri, aplicando as balizas fixadas pelo STF sobre o quesito genérico.",
-      "fonte": "Migalhas",
-      "url": "https://www.migalhas.com.br/quentes/468298/5-turma-do-stj-manda-refazer-juri-apos-absolvicao-contraria-as-provas"
     }
   ]
 }
