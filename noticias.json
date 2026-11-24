@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-23",
+  "atualizado": "2026-11-24",
   "itens": [
+    {
+      "id": "2026-11-23-majorantes-cascata",
+      "data": "2026-11-23",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "3ª Seção do STJ se divide sobre majorantes em cascata; tese pode reduzir penas (Tema 1.422)",
+      "resumo": "Relator defende aplicar causas de aumento uma sobre a outra; Schietti propõe somar as frações e aplicá-las de uma vez. Placar está 1 a 1 e não há tese fixada; vale prequestionar o tema.",
+      "fonte": "Gazeta do Povo",
+      "url": "https://www.gazetadopovo.com.br/republica/julgamento-no-stj-pode-mudar-calculo-e-limitar-aumento-de-penas-entenda/"
+    },
     {
       "id": "2026-11-23-prisao-apos-hc",
       "data": "2026-11-23",
@@ -351,15 +360,6 @@
       "resumo": "O corpo foi achado na tarde de terça (10) na cela que o detento ocupava sozinho. Houve registro de boletim de ocorrência e a direção da unidade instaurou apuração preliminar.",
       "fonte": "CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/preso-e-encontrado-morto-em-cela-do-cdp-iii-de-pinheiros/"
-    },
-    {
-      "id": "2026-11-09-visitas-especiais",
-      "data": "2026-11-09",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "Portaria DGPP-10 cria visitas especiais em datas comemorativas, com panetone no Natal e Ano Novo",
-      "resumo": "Polícia Penal de SP prevê visitas de até 2 h em datas como Natal e Ano Novo, só para visitantes cadastrados e ativos; a unidade pode remarcar ou cancelar e a visita não é direito subjetivo do preso.",
-      "fonte": "Atlas Público",
-      "url": "https://atlaspublico.com.br/estados/sp/noticias/policia-penal-de-sp-institui-programa-de-visitas-especiais-99787"
     }
   ]
 }
