@@ -2,6 +2,15 @@
   "atualizado": "2026-11-25",
   "itens": [
     {
+      "id": "2026-11-25-cannabis-salvo-conduto",
+      "data": "2026-11-25",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: salvo-conduto para cultivo de cannabis medicinal não exige médico especialista nem terapia prévia",
+      "resumo": "Ministro Carlos Pires Brandão reformou decisão do TJ-CE: o salvo-conduto não pode depender de exigências sem base legal, como especialidade do prescritor, tempo mínimo de tratamento ou prova de hipossuficiência.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-25/salvo-conduto-para-cannabis-dispensa-medico-especialista-e-terapia-previa/"
+    },
+    {
       "id": "2026-11-24-preventiva-pena-maxima",
       "data": "2026-11-24",
       "unidade": "Jurisprudência – TJSP",
@@ -351,15 +360,6 @@
       "resumo": "Eles escalaram o muro da ala do semiaberto, fora das muralhas principais; um terceiro foi contido. A SAP registrou BO, abriu apuração e pediu a sustação cautelar do regime do preso contido.",
       "fonte": "CBN Santos",
       "url": "https://www.cbnsantos.com.br/noticias/noticias/dois-detentos-escapam-de-penitenciaria-em-sao-vicente-apos-escalar-muro-durante-banho-de-sol.html"
-    },
-    {
-      "id": "2026-11-10-operacao-guarulhos",
-      "data": "2026-11-10",
-      "unidade": "CDP II de Guarulhos",
-      "titulo": "Operação prende policiais penais por esquema de drogas e celulares em presídios de Guarulhos",
-      "resumo": "Ficco/SP e Gaeco cumpriram 16 mandados de prisão e 21 de busca em sete cidades. Seis policiais penais foram presos; apuração começou com caso no CDP II de Guarulhos.",
-      "fonte": "OVALE (Sampi)",
-      "url": "https://sampi.net.br/ovale/noticias/3017632/vale-do-paraiba/2026/11/com-acoes-em-sao-jose-operacao-prende-6-policiais-penais-em-sp"
     }
   ]
 }
