@@ -2,6 +2,15 @@
   "atualizado": "2026-11-26",
   "itens": [
     {
+      "id": "2026-11-26-exame-psiquiatrico",
+      "data": "2026-11-26",
+      "unidade": "Jurisprudência – TJSP",
+      "titulo": "TJ-SP: falta de exame psiquiátrico não impede progressão ao semiaberto",
+      "resumo": "Com bom comportamento, senso crítico sobre os crimes e laudos social e psicológico favoráveis, a avaliação psiquiátrica foi considerada dispensável; recurso do MP contra a progressão foi negado.",
+      "fonte": "Conjur",
+      "url": "https://conjur.com.br/2026-nov-26/exame-psiquiatrico-e-dispensavel-para-progressao-ao-regime-semiaberto/"
+    },
+    {
       "id": "2026-11-25-bloqueio-celulares",
       "data": "2026-11-25",
       "unidade": "Sistema prisional de SP",
@@ -351,15 +360,6 @@
       "resumo": "No domingo (8), visitante foi flagrada com cerca de 132 g de substância semelhante à maconha no CDP de Mauá; o preso visitado foi para cela especial durante a apuração. Em Santo André, outra desistiu da visita.",
       "fonte": "ABC Repórter",
       "url": "https://abcreporter.com.br/2026/11/13/policiais-penais-policiais-penais-barram-ilicitos-em-presidios-do-abc-visitantes-de-entrarem-com-ilicitos-em-presidios-do-abc/"
-    },
-    {
-      "id": "2026-11-12-stf-violencia-patrimonial",
-      "data": "2026-11-12",
-      "unidade": "Jurisprudência – STF",
-      "titulo": "STF afasta imunidade penal em crimes patrimoniais contra a mulher na violência doméstica",
-      "resumo": "Por unanimidade, o Plenário decidiu que a escusa do art. 181 do CP não alcança furto, estelionato e outros crimes patrimoniais praticados contra a mulher em contexto de violência doméstica.",
-      "fonte": "O Povo",
-      "url": "https://www.opovo.com.br/noticias/politica/2026/11/12/stf-derruba-imunidade-para-punir-violencia-patrimonial-contra-mulheres.html"
     }
   ]
 }
