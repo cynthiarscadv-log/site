@@ -47,6 +47,15 @@
       "url": "https://conjur.com.br/2026-nov-25/salvo-conduto-para-cannabis-dispensa-medico-especialista-e-terapia-previa/"
     },
     {
+      "id": "2026-11-24-furto",
+      "data": "2026-11-24",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "6ª Turma do STJ: pequeno valor no furto privilegiado considera só o bem, não danos acessórios",
+      "resumo": "No REsp 2.294.353-PR (Informativo 911), a Turma afastou o uso de gastos com conserto de alarme e janela para negar o privilégio do art. 155, § 2º, do CP: conta apenas o valor da coisa subtraída.",
+      "fonte": "STJ – Informativo 911 (Damásio)",
+      "url": "https://juris.damasio.com.br/jurisprudencia/julgado/911/furto-qualificado-pelo-rompimento-de-obstaculo-e-escalada"
+    },
+    {
       "id": "2026-11-24-retratacao-revisao",
       "data": "2026-11-24",
       "unidade": "Jurisprudência – STJ",
@@ -126,6 +135,15 @@
       "resumo": "Ministro do STJ reconsiderou decisão e mandou o TJSP conhecer HC contra falta grave: passados os 5 dias do agravo (Súmula 700/STF), o writ é via válida para ilegalidade manifesta, como no HC 104.190 do STF.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-21/falta-grave-pode-ser-discuta-em-hc-se-prazo-de-agravo-em-execucao-expirou/"
+    },
+    {
+      "id": "2026-11-20-trafico",
+      "data": "2026-11-20",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ revoga preventiva: 13 gramas de droga não bastam para sustentar a gravidade do tráfico",
+      "resumo": "Em decisão de 17/11, o ministro Rogerio Schietti afastou prisão decretada no Tocantins por entender que a pequena quantidade apreendida não demonstra gravidade concreta capaz de justificar a custódia.",
+      "fonte": "Jornal Opção",
+      "url": "https://tocantins.jornalopcao.com.br/noticias/stj-derruba-prisao-por-trafico-no-tocantins-apos-justica-considerar-13-gramas-de-drogas-uma-grande-quantidade-605140/"
     },
     {
       "id": "2026-11-20-juri-demonio-prejuizo",
@@ -342,24 +360,6 @@
       "resumo": "Desde 13/11, a certidão criminal do SAJ passa a incluir execuções criminais e deve ser complementada pela certidão de 1º grau dos sistemas eproc e SEEU; a de execução do SAJ deixa de existir em separado.",
       "fonte": "TJSP",
       "url": "https://www.tjsp.jus.br/Certidoes/Certidoes/CertidoesPrimeiraInstancia"
-    },
-    {
-      "id": "2026-11-13-osasco-superlotacao",
-      "data": "2026-11-13",
-      "unidade": "CDP I e CDP II de Osasco",
-      "titulo": "CDPs de Osasco somam 2.379 presos para 1.666 vagas, com superlotação de 42,8%",
-      "resumo": "Dados de 13/11 apontam 1.194 presos no CDP I e 1.185 no CDP II, com 833 vagas cada. A SAP diz que as unidades operam dentro dos padrões e prevê duas novas unidades com 1.646 vagas.",
-      "fonte": "Giro S/A",
-      "url": "https://girosa.com.br/cdp-de-osasco-23-mil-presos-e-superlotacao-de-428/"
-    },
-    {
-      "id": "2026-11-13-escaner-maua",
-      "data": "2026-11-13",
-      "unidade": "CDP de Mauá e CDP de Santo André",
-      "titulo": "Escâner corporal barra visitantes com ilícitos nos CDPs de Mauá e Santo André",
-      "resumo": "No domingo (8), visitante foi flagrada com cerca de 132 g de substância semelhante à maconha no CDP de Mauá; o preso visitado foi para cela especial durante a apuração. Em Santo André, outra desistiu da visita.",
-      "fonte": "ABC Repórter",
-      "url": "https://abcreporter.com.br/2026/11/13/policiais-penais-policiais-penais-barram-ilicitos-em-presidios-do-abc-visitantes-de-entrarem-com-ilicitos-em-presidios-do-abc/"
     }
   ]
 }
