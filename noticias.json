@@ -1,6 +1,15 @@
 {
-  "atualizado": "2026-11-25",
+  "atualizado": "2026-11-26",
   "itens": [
+    {
+      "id": "2026-11-25-bloqueio-celulares",
+      "data": "2026-11-25",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "MJSP bloqueia quase 4 mil celulares em presídios; SP ainda não opera a nova ferramenta",
+      "resumo": "Entre 13/10 e 24/11, 3.941 aparelhos foram desativados por IMEI via Anatel, sem ordem judicial, com base em decreto de outubro. Só quatro estados usam o sistema; São Paulo não está entre eles.",
+      "fonte": "Brasil 247",
+      "url": "https://www.brasil247.com/brasil/governo-bloqueia-quase-4-mil-celulares-em-presidios-em-menos-de-50-dias/"
+    },
     {
       "id": "2026-11-25-conta-laranja",
       "data": "2026-11-25",
@@ -27,6 +36,15 @@
       "resumo": "Ministro Carlos Pires Brandão reformou decisão do TJ-CE: o salvo-conduto não pode depender de exigências sem base legal, como especialidade do prescritor, tempo mínimo de tratamento ou prova de hipossuficiência.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-25/salvo-conduto-para-cannabis-dispensa-medico-especialista-e-terapia-previa/"
+    },
+    {
+      "id": "2026-11-24-retratacao-revisao",
+      "data": "2026-11-24",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ: retratação da vítima sem apoio nas demais provas não leva à absolvição em revisão criminal",
+      "resumo": "Pesquisa Pronta do STJ reúne precedentes: a retratação isolada não basta para desconstituir a condenação se estiver dissociada do restante do conjunto probatório dos autos.",
+      "fonte": "STJ",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/24112026-Pesquisa-Pronta-destaca-tese-sobre-retratacao-da-vitima-e-absolvicao-em-revisao-criminal.aspx"
     },
     {
       "id": "2026-11-24-laudo-prova-indireta",
@@ -342,24 +360,6 @@
       "resumo": "Por unanimidade, o Plenário decidiu que a escusa do art. 181 do CP não alcança furto, estelionato e outros crimes patrimoniais praticados contra a mulher em contexto de violência doméstica.",
       "fonte": "O Povo",
       "url": "https://www.opovo.com.br/noticias/politica/2026/11/12/stf-derruba-imunidade-para-punir-violencia-patrimonial-contra-mulheres.html"
-    },
-    {
-      "id": "2026-11-12-hc-inquerito-arquivado",
-      "data": "2026-11-12",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "5ª Turma do STJ: inquérito arquivado não justifica HC preventivo para discutir provas",
-      "resumo": "Sem denúncia, ação penal ou cautelar vigente, a simples chance de reabertura da investigação não é ameaça concreta à liberdade; a Turma não examinou alegada quebra da cadeia de custódia.",
-      "fonte": "Migalhas",
-      "url": "https://www.migalhas.com.br/quentes/468274/stj-nao-cabe-habeas-corpus-para-questionar-prova-de-inquerito-arquivado"
-    },
-    {
-      "id": "2026-11-11-tema1431-trafico-presidio",
-      "data": "2026-11-11",
-      "unidade": "Jurisprudência – STJ",
-      "titulo": "STJ: preso que encomenda droga ao presídio responde por tráfico mesmo sem recebê-la",
-      "resumo": "3ª Seção (Tema 1.431), por unanimidade: quem pede ou ajusta a entrada de droga na unidade responde por tráfico ainda que a apreensão ocorra antes, desde que provada sua participação.",
-      "fonte": "Migalhas",
-      "url": "https://www.migalhas.com.br/quentes/468409/stj-preso-que-pede-droga-responde-por-trafico-mesmo-sem-recebe-la"
     }
   ]
 }
