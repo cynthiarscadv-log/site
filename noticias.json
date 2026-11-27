@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26",
+  "atualizado": "2026-11-27",
   "itens": [
+    {
+      "id": "2026-11-26-gaeco-nacional",
+      "data": "2026-11-26",
+      "unidade": "Jurisprudência – STF",
+      "titulo": "STF valida, por unanimidade, resolução do MPF que criou o Gaeco Nacional (ADI 7784)",
+      "resumo": "Plenário virtual entendeu que a norma trata de organização administrativa do MPF, não cria novas atribuições investigatórias e tem atuação cooperativa com o procurador natural do caso.",
+      "fonte": "STF",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-validade-de-resolucao-que-criou-gaeco-nacional/"
+    },
+    {
+      "id": "2026-11-26-cdp-maua",
+      "data": "2026-11-26",
+      "unidade": "CDP de Mauá",
+      "titulo": "Escâner corporal flagra visitante com drogas escondidas no corpo no CDP de Mauá",
+      "resumo": "No domingo (22), policiais penais barraram visitante com invólucro de substâncias análogas a cocaína, maconha e haxixe; ela foi levada ao 1º DP de Mauá.",
+      "fonte": "Repórter Diário",
+      "url": "https://www.reporterdiario.com.br/noticia/3935018/policiais-penais-do-cdp-de-maua-impedem-entrada-de-ilicitos/"
+    },
     {
       "id": "2026-11-26-exame-psiquiatrico",
       "data": "2026-11-26",
@@ -45,6 +63,15 @@
       "resumo": "Ministro Carlos Pires Brandão reformou decisão do TJ-CE: o salvo-conduto não pode depender de exigências sem base legal, como especialidade do prescritor, tempo mínimo de tratamento ou prova de hipossuficiência.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-25/salvo-conduto-para-cannabis-dispensa-medico-especialista-e-terapia-previa/"
+    },
+    {
+      "id": "2026-11-24-domiciliar-quadripartite",
+      "data": "2026-11-24",
+      "unidade": "Jurisprudência – STJ",
+      "titulo": "STJ divide prisão domiciliar em quatro espécies e exige reavaliação periódica de ofício",
+      "resumo": "Informativo 911: na domiciliar substitutiva do cárcere e na por falta de estabelecimento adequado, o juízo da execução deve reavaliar a medida periodicamente; o albergue domiciliar dispensa.",
+      "fonte": "Informativo STJ 911 (via Damásio Jurisprudência)",
+      "url": "https://juris.damasio.com.br/jurisprudencia/julgado/911/prisao-domiciliar"
     },
     {
       "id": "2026-11-24-furto",
@@ -162,6 +189,15 @@
       "resumo": "Núcleo 4.0 concedeu HC: sem apuração da infração no prazo da Resolução SAP 144/2010, a regressão cautelar vira antecipação de pena e não pode subsistir.",
       "fonte": "Conjur",
       "url": "https://conjur.com.br/2026-nov-20/demora-em-apuracao-de-infracao-desfaz-regressao-cautelar-de-pena/"
+    },
+    {
+      "id": "2026-11-19-guarulhos-prazos",
+      "data": "2026-11-19",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "TJSP suspende prazos e atendimento da UPJ I Cível de Guarulhos de 14 a 18/12 para migrar ao eproc",
+      "resumo": "Medida atinge a 1ª à 4ª Varas Cíveis de Guarulhos; urgências e audiências já designadas são mantidas. Depois, a distribuição passa a ser só pelo eproc.",
+      "fonte": "OAB SP – Jornal da Advocacia",
+      "url": "https://www.oabsp.org.br/jornaldaadvocacia/26-11-19-1633-tjsp-suspende-prazos-e-atendimento-em-unidade-de-guarulhos-para-migracao-ao-eproc"
     },
     {
       "id": "2026-11-19-streifinger-sap",
@@ -324,42 +360,6 @@
       "resumo": "Complexo tinha 5.007 presos para 2.485 vagas; só o CDP II, 1.745 para 793. Texto cita jejum de até 15 h apontado pela Defensoria e 78 unidades paulistas sem equipe do SUS, segundo dados da SAP.",
       "fonte": "Brasil de Fato",
       "url": "https://www.brasildefato.com.br/2026/11/16/superlotacao-fome-e-sede-o-que-esta-por-tras-da-camiseta-de-preso-pedindo-por-direitos-humanos-em-presidio-de-sp/"
-    },
-    {
-      "id": "2026-11-15-fatos-posteriores-pena",
-      "data": "2026-11-15",
-      "unidade": "Jurisprudência – TJSP",
-      "titulo": "TJSP: conduta do réu posterior ao crime não pode elevar a pena-base",
-      "resumo": "Em caso de homicídio, a Corte afastou a valoração negativa de fatos ocorridos depois do crime e reduziu o aumento da pena-base, fixando a pena final em 16 anos e 6 meses.",
-      "fonte": "Conjur",
-      "url": "https://conjur.com.br/2026-nov-15/fatos-posteriores-ao-crime-nao-devem-ser-considerados-para-majoracao-da-pena/"
-    },
-    {
-      "id": "2026-11-14-abandono-juri",
-      "data": "2026-11-14",
-      "unidade": "Jurisprudência – TJSP",
-      "titulo": "TJSP: advogado que abandona júri já instalado deve ressarcir despesas do Estado",
-      "resumo": "13ª Câmara Criminal manteve cobrança de cerca de R$ 5 mil de defensores que deixaram o plenário em Cubatão. A cobrança é indenizatória (art. 362, §3º, CPC), não multa do art. 265 do CPP.",
-      "fonte": "Conjur",
-      "url": "https://conjur.com.br/2026-nov-14/abandono-de-tribunal-do-juri-gera-dever-de-ressarcimento-das-despesas/"
-    },
-    {
-      "id": "2026-11-13-cnj-prazos-microsoft",
-      "data": "2026-11-13",
-      "unidade": "Jurisprudência – CNJ",
-      "titulo": "CNJ suspende prazos processuais de 12 e 13/11 em todo o país por pane no Microsoft 365",
-      "resumo": "A Portaria Presidência nº 551/2026 suspendeu os prazos nos dias 12 e 13/11, a pedido da OAB; a contagem voltou em 16/11. Casos afetados fora da portaria podem ser analisados pelo juízo ou relator.",
-      "fonte": "CNJ",
-      "url": "https://www.cnj.jus.br/cnj-suspende-prazos-processuais-por-instabilidade-no-microsoft-365/"
-    },
-    {
-      "id": "2026-11-13-certidao-execucoes-tjsp",
-      "data": "2026-11-13",
-      "unidade": "Sistema prisional de SP",
-      "titulo": "TJSP muda certidão criminal: execuções passam a constar e exigem complemento eproc/SEEU",
-      "resumo": "Desde 13/11, a certidão criminal do SAJ passa a incluir execuções criminais e deve ser complementada pela certidão de 1º grau dos sistemas eproc e SEEU; a de execução do SAJ deixa de existir em separado.",
-      "fonte": "TJSP",
-      "url": "https://www.tjsp.jus.br/Certidoes/Certidoes/CertidoesPrimeiraInstancia"
     }
   ]
 }
