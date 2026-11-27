@@ -2,6 +2,15 @@
   "atualizado": "2026-11-27",
   "itens": [
     {
+      "id": "2026-11-27-taboao-prazos",
+      "data": "2026-11-27",
+      "unidade": "Sistema prisional de SP",
+      "titulo": "TJSP suspende prazos e atendimento em varas de Taboão da Serra de 30/11 a 4/12 para migrar ao eproc",
+      "resumo": "Pelo Comunicado Conjunto 839/2026, a UPJ das 1ª a 3ª Varas Cíveis e a Vara da Família de Taboão da Serra terão prazos e atendimento suspensos; urgências e audiências marcadas seguem mantidas.",
+      "fonte": "OAB SP – Jornal da Advocacia",
+      "url": "https://www.oabsp.org.br/jornaldaadvocacia/26-11-27-1337-tjsp-suspende-prazos-e-atendimento-em-unidades-de-taboao-da-serra-e-guarulhos-para-migracao-ao-eproc"
+    },
+    {
       "id": "2026-11-26-gaeco-nacional",
       "data": "2026-11-26",
       "unidade": "Jurisprudência – STF",
@@ -351,15 +360,6 @@
       "resumo": "Aplicando o Tema 1.121, a 6ª Turma negou a desclassificação para importunação sexual: a incapacidade de resistir de vítima adulta recebe a mesma proteção dada a menores de 14 anos.",
       "fonte": "STJ",
       "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/16112026-sexta-turma-afasta-importunacao-sexual-e-confirma-estupro-de-vulneravel-contra-vitima-adulta-incapaz.aspx"
-    },
-    {
-      "id": "2026-11-16-pinheiros-condicoes",
-      "data": "2026-11-16",
-      "unidade": "Complexo Prisional de Pinheiros",
-      "titulo": "Reportagem expõe superlotação, fome e sede no Complexo Prisional de Pinheiros",
-      "resumo": "Complexo tinha 5.007 presos para 2.485 vagas; só o CDP II, 1.745 para 793. Texto cita jejum de até 15 h apontado pela Defensoria e 78 unidades paulistas sem equipe do SUS, segundo dados da SAP.",
-      "fonte": "Brasil de Fato",
-      "url": "https://www.brasildefato.com.br/2026/11/16/superlotacao-fome-e-sede-o-que-esta-por-tras-da-camiseta-de-preso-pedindo-por-direitos-humanos-em-presidio-de-sp/"
     }
   ]
 }
